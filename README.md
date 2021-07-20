@@ -1,6 +1,6 @@
 # Vocabulary and further resources
 
-The website [Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) provides an effortless means of backtesting various asset class allocations.
+The website [Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) provides an effortless means of backtesting various asset class allocations. For example, you can compare the returns of small cap value stocks vs. a cap-weighted index since 1972.
 
 For a book with concise coverage of the essentials of personal finance, read _The Index Card_ by Helaine Olen and Harold Pollack.
 
