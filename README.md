@@ -114,7 +114,7 @@ Terms are ordered roughly from most basic to most advanced. Nearly all the links
 
 [Qualified dividend](https://www.investopedia.com/terms/q/qualifieddividend.asp)
 
-[Wash sale](https://www.investopedia.com/terms/w/washsale.asp)
+[Wash sale](https://github.com/investindex/Taxes#wash-sale-rules)
 
 [Value stock](https://www.investopedia.com/terms/v/valuestock.asp)
 
