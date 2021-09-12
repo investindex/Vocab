@@ -52,8 +52,6 @@ Terms are ordered roughly from most basic to most advanced. Nearly all the links
 
 [Tax-advantaged account](https://www.investopedia.com/articles/stocks/11/intro-tax-efficient-investing.asp) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
 
-[Market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp)
-
 [Market capitalization weighting](https://www.investopedia.com/terms/c/capitalizationweightedindex.asp)
 
 [Bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp)
@@ -84,10 +82,6 @@ Terms are ordered roughly from most basic to most advanced. Nearly all the links
 
 [Bear market](https://www.investopedia.com/terms/b/bearmarket.asp)
 
-[Correction](https://www.investopedia.com/terms/c/correction.asp)
-
-[Recession](https://www.investopedia.com/terms/r/recession.asp)
-
 [S&P 500](https://www.investopedia.com/terms/s/sp500.asp)
 
 [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp)
@@ -116,9 +110,7 @@ Terms are ordered roughly from most basic to most advanced. Nearly all the links
 
 [Wash sale](https://github.com/investindex/Taxes#wash-sale-rules)
 
-[Value stock](https://www.investopedia.com/terms/v/valuestock.asp)
-
-[Growth stock](https://www.investopedia.com/terms/g/growthstock.asp)
+[Value/growth stock](https://github.com/investindex/Portfolio)
 
 [Liquidity](https://www.investopedia.com/terms/l/liquidity.asp)
 
