@@ -2,7 +2,7 @@
 
 For a book with concise coverage of the essentials of personal finance, read _The Index Card_ by Helaine Olen and Harold Pollack.
 
-Preet Banerjee’s YouTube channel has a series of videos which explain investing step by step in basic terms, and the first one is [here](https://www.youtube.com/watch?v=Arz_9WX-pn0&ab_channel=PreetBanerjee).
+Preet Banerjee’s YouTube channel has a series of videos which explain investing step by step in basic terms, and the first one is [here](https://www.youtube.com/watch?v=Arz_9WX-pn0&ab_channel=PreetBanerjee). I recommend those linked here: (1) + (2) + (3) + (4) + (5) + (6) + (7) + (8) + (10) + (11). 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investment vehicles in this guide.
 
 At a higher level of difficulty, [The Plain Bagel](https://www.youtube.com/c/ThePlainBagel/videos) is a channel that covers many investment topics with great clarity.
 
