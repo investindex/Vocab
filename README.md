@@ -1,6 +1,6 @@
 # Vocabulary and further resources
 
-For a book with concise coverage of the essentials of personal finance, read _The Index Card_ by Helaine Olen and Harold Pollack.
+For a book with concise coverage of the essentials of personal finance, read _The Index Card_ by Helaine Olen and Harold Pollack. (Download it [here](https://github.com/investindex/Vocab/blob/main/TheIndexCard.epub).)
 
 Preet Banerjee’s YouTube channel has a series of short videos which explain investing step by step in basic terms, and I recommend those linked here: [(1)](https://www.youtube.com/watch?v=Arz_9WX-pn0&ab_channel=PreetBanerjee) + [(2)](https://www.youtube.com/watch?v=Ne6d-n2jiWo&ab_channel=PreetBanerjee) + [(3)](https://www.youtube.com/watch?v=ACbu4XER_bQ&ab_channel=PreetBanerjee) + [(4)](https://www.youtube.com/watch?v=pAoTC_nkg0Q&ab_channel=PreetBanerjee) + [(5)](https://www.youtube.com/watch?v=M70zAS0rPE8&ab_channel=PreetBanerjee) + [(6)](https://www.youtube.com/watch?v=h9O_x8RhzwE&ab_channel=PreetBanerjee) + [(7)](https://www.youtube.com/watch?v=Jz8ISUefjkw&ab_channel=PreetBanerjee) + [(8)](https://www.youtube.com/watch?v=oqBhf7QphDU&ab_channel=PreetBanerjee) + [(10)](https://www.youtube.com/watch?v=VhtsYTp30Qg&ab_channel=PreetBanerjee) + [(11)](https://www.youtube.com/watch?v=DZMq09drgNg&ab_channel=PreetBanerjee). 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investment vehicles in this guide.
 
