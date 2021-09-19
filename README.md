@@ -1,7 +1,5 @@
 # Vocabulary and further resources
 
-The website [Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) provides an effortless means of backtesting various asset class allocations. For example, you can compare the returns of small cap value stocks vs. a cap-weighted index since 1972.
-
 For a book with concise coverage of the essentials of personal finance, read _The Index Card_ by Helaine Olen and Harold Pollack.
 
 Preet Banerjee’s YouTube channel has a series of videos which explain investing step by step in basic terms, and the first one is [here](https://www.youtube.com/watch?v=Arz_9WX-pn0&ab_channel=PreetBanerjee).
@@ -11,6 +9,8 @@ At a higher level of difficulty, [The Plain Bagel](https://www.youtube.com/c/The
 [Ben Felix](https://www.youtube.com/c/BenFelixCSI/videos)'s channel has an unusual level of technical explanation, while still being very accessible. He provides extensive scholarly citations to support his views on investing. His [video](https://www.youtube.com/watch?v=jKWbW7Wgm0w&ab_channel=BenFelix) on factor investing is linked above as the best explanation of those concepts. He also co-hosts a podcast called [The Rational Reminder](https://www.youtube.com/c/RATIONALREMINDER/videos), where he interviews experts or explores the evidence on a variety of investing topics. [Click here](https://www.youtube.com/watch?v=we_7F5N3ByQ&ab_channel=BreakingBadDebt) to see a video in which he outlines the basics of investing according to his views.
 
 These three YouTubers are Canadian financial professionals, but nearly all of their advice applies universally.
+
+The website [Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) provides an effortless means of backtesting various asset class allocations. For example, you can compare the returns of small cap value stocks vs. a cap-weighted index since 1972.
 
 Terms are ordered roughly from most basic to most advanced. Nearly all the links lead to each term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates rise.
 
