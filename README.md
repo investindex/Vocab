@@ -8,7 +8,7 @@ At a higher level of difficulty, [The Plain Bagel](https://www.youtube.com/c/The
 
 [Ben Felix](https://www.youtube.com/c/BenFelixCSI/videos)'s channel has an unusual level of technical explanation, while still being very accessible. He provides extensive scholarly citations to support his views on investing. His [video](https://www.youtube.com/watch?v=jKWbW7Wgm0w&ab_channel=BenFelix) on factor investing is linked above as the best explanation of those concepts. He also co-hosts a podcast called [The Rational Reminder](https://www.youtube.com/c/RATIONALREMINDER/videos), where he interviews experts or explores the evidence on a variety of investing topics. [Click here](https://www.youtube.com/watch?v=we_7F5N3ByQ&ab_channel=BreakingBadDebt) to see a video in which he outlines the basics of investing according to his views.
 
-These three YouTubers are Canadian financial professionals, but nearly all of their advice applies universally.
+These three YouTubers are Canadian financial professionals, but nearly all of their advice applies universally. Many of their videos are linked throughout the guide.
 
 The website [Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) provides an effortless means of backtesting various asset class allocations. For example, you can compare the returns of small cap value stocks vs. a cap-weighted index since 1972.
 
