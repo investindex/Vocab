@@ -94,8 +94,6 @@ Terms are ordered roughly from most basic to most advanced. Many of the links le
 
 [Limit order](https://www.investopedia.com/terms/l/limitorder.asp)
 
-[Stop order](https://www.investopedia.com/terms/s/stoporder.asp)
-
 [Stock split](https://www.investopedia.com/ask/answers/what-stock-split-why-do-stocks-split/)
 
 [Holding period](https://www.investopedia.com/terms/h/holdingperiod.asp)
