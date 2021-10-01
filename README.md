@@ -46,6 +46,8 @@ Terms are ordered roughly from most basic to most advanced. Many of the links le
 
 [Dividend](https://www.investopedia.com/terms/d/dividend.asp)
 
+[Ex-dividend date](https://www.investopedia.com/terms/e/ex-date.asp)
+
 [Basis point](https://www.investopedia.com/terms/b/basispoint.asp)
 
 [Brokerage account](https://www.investopedia.com/terms/b/brokerageaccount.asp)
