@@ -10,7 +10,9 @@ At a higher level of difficulty, [The Plain Bagel](https://www.youtube.com/c/The
 
 These three YouTubers are Canadian financial professionals, but nearly all of their advice applies universally. Many of their videos are linked throughout the guide.
 
-The website [Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) provides an effortless means of backtesting various asset class allocations. For example, you can compare the returns of US small cap value stocks vs. a US cap-weighted index since 1972. On a more advanced level, you can use [this part](https://www.portfoliovisualizer.com/factor-analysis) of the website to test what exposure to different factors a given fund has had by simply typing in its ticker symbol.
+The website [Portfolio Visualizer](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) provides an effortless means of backtesting various asset class allocations. For example, you can compare the returns of US small cap value stocks vs. a US cap-weighted index since 1972. On a more advanced level, you can use [this part](https://www.portfoliovisualizer.com/factor-analysis) of the website to test what exposure to different factors a given fund has achieved by simply typing in its ticker symbol and selecting the Fama-French five-factor model.
+
+The Research Affilates [website](https://www.researchaffiliates.com) has [a section](https://interactive.researchaffiliates.com/smart-beta) which estimates expected (excess) returns of various factors based on relative valuations. Research Affiliates is the organization that creates RAFI indices.
 
 Terms are ordered roughly from most basic to most advanced. Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates rise.
 
