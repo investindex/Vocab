@@ -82,7 +82,7 @@ Terms are ordered roughly from most basic to most advanced. Many of the links le
 
 [Rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp)
 
-[(Un)compensated risk](https://github.com/investindex/Risk#two-types-of-risk)
+[(Un)compensated risk](https://github.com/investindex/Risk#two-broad-types-of-risk)
 
 [Automatic investment plan](https://www.investopedia.com/terms/a/automaticinvestmentplan.asp)
 
