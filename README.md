@@ -54,6 +54,8 @@ Terms are ordered roughly from most basic to most advanced. Many of the links le
 
 [Brokerage account](https://www.investopedia.com/terms/b/brokerageaccount.asp)
 
+[Cash/Margin account](https://github.com/investindex/Practical#brokerage-accounts)
+
 [Tax-advantaged account](https://www.investopedia.com/articles/stocks/11/intro-tax-efficient-investing.asp) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
 
 [Traditional/Roth plan](https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/)
