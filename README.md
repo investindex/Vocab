@@ -118,6 +118,8 @@ Terms are ordered roughly from most basic to most advanced. Many of the links le
 
 [Wash sale](https://github.com/investindex/Taxes#wash-sale-rules)
 
+[Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting)
+
 [Value/growth stock](https://github.com/investindex/Portfolio)
 
 [Liquidity](https://www.investopedia.com/terms/l/liquidity.asp)
