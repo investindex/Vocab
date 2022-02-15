@@ -2,11 +2,11 @@
 
 For a book with concise coverage of the essentials of personal finance, read _The Index Card_ by Helaine Olen and Harold Pollack. (If you want to read it, click [here](https://github.com/investindex/Vocab/blob/main/TheIndexCard.epub) then click "download" on the right side of the screen.)
 
-Preet Banerjee’s YouTube channel has a series of short videos which explain investing step by step in basic terms, and I recommend those linked in [this playlist](https://www.youtube.com/watch?v=Arz_9WX-pn0&list=PLENfNwrAryOiK4QF3Ot8PZdZ-Vcx07HAP&index=1&ab_channel=PreetBanerjee). Videos 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investment vehicles in this guide.
+Preet Banerjee’s YouTube channel has a series of short videos which explain investing step by step in basic terms, and I recommend those linked in [this playlist](https://www.youtube.com/watch?v=Arz_9WX-pn0&list=PLENfNwrAryOiK4QF3Ot8PZdZ-Vcx07HAP&index=1). Videos 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investment vehicles in this guide.
 
 At a higher level of difficulty, [The Plain Bagel](https://www.youtube.com/c/ThePlainBagel/videos) is a channel that covers many investment topics with great clarity.
 
-Ben Felix's [channel](https://www.youtube.com/c/BenFelixCSI/videos) has an unusual level of technical explanation, while still being very accessible. He provides extensive scholarly citations to support his views on investing. His [video](https://www.youtube.com/watch?v=jKWbW7Wgm0w&ab_channel=BenFelix) on factor investing is linked in the portfolio section as the best explanation of those concepts. He also co-hosts a podcast called [The Rational Reminder](https://www.youtube.com/c/RATIONALREMINDER/videos), where he interviews experts or explores the evidence on a variety of investing topics. [Click here](https://www.youtube.com/watch?v=we_7F5N3ByQ&ab_channel=BreakingBadDebt) to see a video in which he outlines the basics of investing according to his views.
+Ben Felix's [channel](https://www.youtube.com/c/BenFelixCSI/videos) has an unusual level of technical explanation, while still being very accessible. He provides extensive scholarly citations to support his views on investing. His [video](https://www.youtube.com/watch?v=jKWbW7Wgm0w) on factor investing is linked in the portfolio section as the best explanation of those concepts. He also co-hosts a podcast called [The Rational Reminder](https://www.youtube.com/c/RATIONALREMINDER/videos), where he interviews experts or explores the evidence on a variety of investing topics. [Click here](https://www.youtube.com/watch?v=we_7F5N3ByQ) to see a video in which he outlines the basics of investing according to his views.
 
 These three YouTubers are Canadian financial professionals, but nearly all of their advice applies universally. Many of their videos are linked throughout the guide. Patrick Boyle, a quantitative trader and hedge fund manager based in London, has a great [YouTube channel](https://www.youtube.com/c/PatrickBoyleOnFinance/videos) as well. His style of investing is far different than the one advocated in this guide, but his videos provide very informed (and funny!) commentary on current events and important issues in financial markets. In addition to those, I recommend [this playlist](https://www.youtube.com/playlist?list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw) of his lectures on portfolio management.
 
@@ -18,7 +18,7 @@ Terms are ordered roughly from most basic to most advanced. Many of the links le
 
 &nbsp;
 
-[Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ&ab_channel=PreetBanerjee)
+[Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ)
 
 [Stock](https://www.investopedia.com/terms/s/stock.asp) / [Equity](https://www.investopedia.com/terms/e/equity.asp)
 
