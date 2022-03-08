@@ -14,7 +14,7 @@ The website [Portfolio Visualizer](https://www.portfoliovisualizer.com) provides
 
 The Research Affilates [website](https://www.researchaffiliates.com) has [a section](https://interactive.researchaffiliates.com/smart-beta) which estimates expected (excess) returns of various factors based on relative valuations. Research Affiliates is the organization that creates RAFI indices.
 
-Terms are ordered roughly from most basic to most advanced. Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates rise.
+Terms are ordered roughly from most basic to most advanced. Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates increase (or more accurately, if investors anticipate that interest rates will increase more than previously expected).
 
 &nbsp;
 
@@ -31,8 +31,6 @@ Terms are ordered roughly from most basic to most advanced. Many of the links le
 [Position](https://www.investopedia.com/terms/p/position.asp)
 
 [Capital gain](https://www.investopedia.com/terms/c/capitalgain.asp)
-
-[Capital appreciation](https://www.investopedia.com/terms/c/capitalappreciation.asp)
 
 [Return](https://www.investopedia.com/terms/r/return.asp)
 
@@ -81,6 +79,8 @@ Terms are ordered roughly from most basic to most advanced. Many of the links le
 [Cash/Margin account](https://github.com/investindex/Practical#brokerage-accounts)
 
 [Tax-advantaged account](https://www.investopedia.com/articles/stocks/11/intro-tax-efficient-investing.asp) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
+
+[Qualified distribution](https://github.com/investindex/Guidelines#tax-advantaged-accounts)
 
 [Traditional/Roth plan](https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/)
 
