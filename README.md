@@ -144,7 +144,7 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 &nbsp;
 
-Not introduced anywhere in particular
+Not introduced at all or anywhere in particular
 
 * [Asset class](https://www.investopedia.com/terms/a/assetclasses.asp)
 
