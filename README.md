@@ -146,19 +146,19 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 Not introduced anywhere in particular
 
-[Asset class](https://www.investopedia.com/terms/a/assetclasses.asp)
+* [Asset class](https://www.investopedia.com/terms/a/assetclasses.asp)
 
-[Brokerage account](https://www.investopedia.com/terms/b/brokerageaccount.asp)
+* [Brokerage account](https://www.investopedia.com/terms/b/brokerageaccount.asp)
 
-[Automatic investment plan](https://www.investopedia.com/terms/a/automaticinvestmentplan.asp)
+* [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp)
 
-[New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp)
+* [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp)
 
-[Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp)
+* [Automatic investment plan](https://www.investopedia.com/terms/a/automaticinvestmentplan.asp)
 
-[Liquidity](https://www.investopedia.com/terms/l/liquidity.asp)
+* [Liquidity](https://www.investopedia.com/terms/l/liquidity.asp)
 
-[Inflation](https://www.investopedia.com/terms/i/inflation.asp)
+* [Inflation](https://www.investopedia.com/terms/i/inflation.asp)
 
 &nbsp;
 
