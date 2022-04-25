@@ -126,8 +126,6 @@ Terms are ordered roughly from most basic to most advanced. Many of the links le
 
 [Inflation](https://www.investopedia.com/terms/i/inflation.asp)
 
-[US Treasury bond](https://www.investopedia.com/articles/investing/073113/introduction-treasury-securities.asp)
-
 [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp)
 
 [Credit risk](https://www.investopedia.com/ask/answers/022615/what-types-financial-situations-would-credit-spread-risk-be-applied-instead-default-risk.asp)
