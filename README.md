@@ -20,43 +20,33 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 [Introduction to index funds](https://github.com/investindex/Index)
 
-* [Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ)
-
 * [Stock](https://www.investopedia.com/terms/s/stock.asp) / [Equity](https://www.investopedia.com/terms/e/equity.asp)
 
 * [Share](https://www.investopedia.com/ask/answers/difference-between-shares-and-stocks/)
-
-* [Security](https://www.investopedia.com/terms/s/security.asp)
-
-* [Position](https://www.investopedia.com/terms/p/position.asp)
-
-* [Capital gain](https://www.investopedia.com/terms/c/capitalgain.asp)
-
-* [Return](https://www.investopedia.com/terms/r/return.asp)
-
-* [Total return](https://github.com/investindex/Risk#total-return--a-reminder)
-
-* [(Un)realized gain](https://www.investopedia.com/terms/u/unrealizedgain.asp)
-
-* [Market capitalization weighting](https://www.investopedia.com/terms/c/capitalizationweightedindex.asp)
-
-* [S&P 500](https://www.investopedia.com/terms/s/sp500.asp)
-
-* [Bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp)
-
-* [Exchange-traded fund (ETF)](https://www.investopedia.com/terms/e/etf.asp)
-
-* [Mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp)
 
 * [Index](https://www.investopedia.com/terms/i/index.asp)
 
 * [Index fund](https://www.investopedia.com/terms/i/indexfund.asp)
 
+* [S&P 500](https://www.investopedia.com/terms/s/sp500.asp)
+
+* [Market capitalization weighting](https://www.investopedia.com/terms/c/capitalizationweightedindex.asp)
+
 * [Net asset value (NAV)](https://www.investopedia.com/terms/n/nav.asp)
 
 * [Stock split](https://www.investopedia.com/ask/answers/what-stock-split-why-do-stocks-split/)
 
-* [Expense ratio](https://www.investopedia.com/terms/e/expenseratio.asp)
+* [Mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp)
+
+* [Exchange-traded fund (ETF)](https://www.investopedia.com/terms/e/etf.asp)
+
+* [Bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp)
+
+* [Security](https://www.investopedia.com/terms/s/security.asp)
+
+* [Capital gain](https://www.investopedia.com/terms/c/capitalgain.asp)
+
+* [(Un)realized gain](https://www.investopedia.com/terms/u/unrealizedgain.asp)
 
 * [Dividend](https://www.investopedia.com/terms/d/dividend.asp)
 
@@ -64,9 +54,15 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Capital gains distribution](https://www.investopedia.com/terms/c/capitalgainsdistribution.asp)
 
-* [Ticker symbol](https://www.investopedia.com/terms/s/stocksymbol.asp)
+* [Return](https://www.investopedia.com/terms/r/return.asp)
+
+* [Total return](https://github.com/investindex/Risk#total-return--a-reminder)
+
+* [Expense ratio](https://www.investopedia.com/terms/e/expenseratio.asp)
 
 * [Basis point](https://www.investopedia.com/terms/b/basispoint.asp)
+
+* [Ticker symbol](https://www.investopedia.com/terms/s/stocksymbol.asp)
 
 &nbsp;
 
@@ -126,6 +122,8 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Cost basis](https://www.investopedia.com/terms/c/costbasis.asp)
 
+* [Position](https://www.investopedia.com/terms/p/position.asp)
+
 * [Holding period](https://www.investopedia.com/terms/h/holdingperiod.asp)
 
 * [Taxable event](https://www.investopedia.com/terms/t/taxableevent.asp)
@@ -147,6 +145,8 @@ Terms are ordered according to the section in which they were introduced. Many o
 &nbsp;
 
 Not introduced at all or anywhere in particular
+
+* [Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ)
 
 * [Asset class](https://www.investopedia.com/terms/a/assetclasses.asp)
 
