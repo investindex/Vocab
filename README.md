@@ -80,6 +80,8 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Interest rate risk](https://www.investopedia.com/ask/answers/05/ltbondrisk.asp)
 
+* [Current yield](https://www.investopedia.com/terms/c/currentyield.asp)
+
 * [Bull market](https://www.investopedia.com/terms/b/bullmarket.asp)
 
 * [Bear market](https://www.investopedia.com/terms/b/bearmarket.asp)
