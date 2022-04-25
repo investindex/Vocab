@@ -14,123 +14,151 @@ The website [Portfolio Visualizer](https://www.portfoliovisualizer.com) provides
 
 The Research Affilates [website](https://www.researchaffiliates.com) has [a section](https://interactive.researchaffiliates.com/smart-beta) which estimates expected (excess) returns of various factors based on relative valuations. Research Affiliates is the organization that creates RAFI indices.
 
-Terms are ordered roughly from most basic to most advanced. Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates increase (or more accurately, if investors anticipate that interest rates will increase more than previously expected).
+Terms are ordered according to the section in which they were introduced. Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates increase (or more accurately, if investors anticipate that interest rates will increase more than previously expected).
 
 &nbsp;
 
-[Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ)
+[Introduction to index funds](https://github.com/investindex/Index)
 
-[Stock](https://www.investopedia.com/terms/s/stock.asp) / [Equity](https://www.investopedia.com/terms/e/equity.asp)
+* [Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ)
 
-[Bond](https://www.investopedia.com/terms/b/bond.asp) / [Fixed income](https://www.investopedia.com/terms/f/fixedincome.asp)
+* [Stock](https://www.investopedia.com/terms/s/stock.asp) / [Equity](https://www.investopedia.com/terms/e/equity.asp)
 
-[Share](https://www.investopedia.com/ask/answers/difference-between-shares-and-stocks/)
+* [Share](https://www.investopedia.com/ask/answers/difference-between-shares-and-stocks/)
 
-[Security](https://www.investopedia.com/terms/s/security.asp)
+* [Security](https://www.investopedia.com/terms/s/security.asp)
 
-[Position](https://www.investopedia.com/terms/p/position.asp)
+* [Position](https://www.investopedia.com/terms/p/position.asp)
 
-[Capital gain](https://www.investopedia.com/terms/c/capitalgain.asp)
+* [Capital gain](https://www.investopedia.com/terms/c/capitalgain.asp)
 
-[Return](https://www.investopedia.com/terms/r/return.asp)
+* [Return](https://www.investopedia.com/terms/r/return.asp)
 
-[(Un)realized gain](https://www.investopedia.com/terms/u/unrealizedgain.asp)
+* [Total return](https://github.com/investindex/Risk#total-return--a-reminder)
 
-[Interest rate](https://www.investopedia.com/terms/i/interestrate.asp)
+* [(Un)realized gain](https://www.investopedia.com/terms/u/unrealizedgain.asp)
 
-[Diversification](https://github.com/investindex/Portfolio#clarifying-diversification)
+* [Market capitalization weighting](https://www.investopedia.com/terms/c/capitalizationweightedindex.asp)
 
-[Ticker symbol](https://www.investopedia.com/terms/s/stocksymbol.asp)
+* [S&P 500](https://www.investopedia.com/terms/s/sp500.asp)
 
-[Cost basis](https://www.investopedia.com/terms/c/costbasis.asp)
+* [Bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp)
 
-[Dividend](https://www.investopedia.com/terms/d/dividend.asp)
+* [Exchange-traded fund (ETF)](https://www.investopedia.com/terms/e/etf.asp)
 
-[Ex-dividend date](https://www.investopedia.com/terms/e/ex-date.asp)
+* [Mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp)
 
-[Basis point](https://www.investopedia.com/terms/b/basispoint.asp)
+* [Index](https://www.investopedia.com/terms/i/index.asp)
 
-[Market capitalization weighting](https://www.investopedia.com/terms/c/capitalizationweightedindex.asp)
+* [Index fund](https://www.investopedia.com/terms/i/indexfund.asp)
 
-[Bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp)
+* [Net asset value (NAV)](https://www.investopedia.com/terms/n/nav.asp)
 
-[Exchange-traded fund (ETF)](https://www.investopedia.com/terms/e/etf.asp)
+* [Stock split](https://www.investopedia.com/ask/answers/what-stock-split-why-do-stocks-split/)
 
-[Mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp)
+* [Expense ratio](https://www.investopedia.com/terms/e/expenseratio.asp)
 
-[Index](https://www.investopedia.com/terms/i/index.asp)
+* [Dividend](https://www.investopedia.com/terms/d/dividend.asp)
 
-[Index fund](https://www.investopedia.com/terms/i/indexfund.asp)
+* [Ex-dividend date](https://www.investopedia.com/terms/e/ex-date.asp)
 
-[Net asset value (NAV)](https://www.investopedia.com/terms/n/nav.asp)
+* [Capital gains distribution](https://www.investopedia.com/terms/c/capitalgainsdistribution.asp)
 
-[Expense ratio](https://www.investopedia.com/terms/e/expenseratio.asp)
+* [Ticker symbol](https://www.investopedia.com/terms/s/stocksymbol.asp)
+
+* [Basis point](https://www.investopedia.com/terms/b/basispoint.asp)
+
+&nbsp;
+
+[Thinking about risk](https://github.com/investindex/Risk)
+
+* [Bond](https://www.investopedia.com/terms/b/bond.asp) / [Fixed income](https://www.investopedia.com/terms/f/fixedincome.asp)
+
+* [Interest rate](https://www.investopedia.com/terms/i/interestrate.asp)
+
+* [Credit risk](https://www.investopedia.com/ask/answers/022615/what-types-financial-situations-would-credit-spread-risk-be-applied-instead-default-risk.asp)
+
+* [Interest rate risk](https://www.investopedia.com/ask/answers/05/ltbondrisk.asp)
+
+* [Bull market](https://www.investopedia.com/terms/b/bullmarket.asp)
+
+* [Bear market](https://www.investopedia.com/terms/b/bearmarket.asp)
+
+* [Rebalancing](https://github.com/investindex/Risk#rebalancing--risk-maintenance)
+
+* [(Un)compensated risk](https://github.com/investindex/Risk#two-broad-types-of-risk)
+
+* [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp)
+
+&nbsp;
+
+[Guidelines for financial planning](https://github.com/investindex/Guidelines)
+
+* [Tax-advantaged account](https://www.investopedia.com/articles/stocks/11/intro-tax-efficient-investing.asp) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
+
+* [Qualified distribution](https://github.com/investindex/Guidelines#tax-advantaged-accounts)
+
+* [Traditional/Roth plan](https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/)
+
+&nbsp;
+
+[Building a stock portfolio](https://github.com/investindex/Portfolio)
+
+* [Value/growth stock](https://github.com/investindex/Portfolio)
+
+* [Diversification](https://github.com/investindex/Portfolio#clarifying-diversification)
+
+&nbsp;
+
+[Practical information for execution](https://github.com/investindex/Practical)
+
+* [Cash/Margin account](https://github.com/investindex/Practical#brokerage-accounts)
+
+* [Market order](https://www.investopedia.com/terms/m/marketorder.asp)
+
+* [Limit order](https://www.investopedia.com/terms/l/limitorder.asp)
+
+&nbsp;
+
+[Taxes](https://github.com/investindex/Taxes)
+
+* [Cost basis](https://www.investopedia.com/terms/c/costbasis.asp)
+
+* [Holding period](https://www.investopedia.com/terms/h/holdingperiod.asp)
+
+* [Taxable event](https://www.investopedia.com/terms/t/taxableevent.asp)
+
+* [Long-term capital gain](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp)
+
+* [Tax lot](https://www.investopedia.com/terms/t/taxlotaccounting.asp)
+
+* [First in, first out (FIFO)](https://www.investopedia.com/terms/f/fifo.asp)
+
+* [Qualified dividend](https://www.investopedia.com/terms/q/qualifieddividend.asp)
+
+* [Roth conversion](https://www.investopedia.com/roth-ira-conversion-rules-4770480)
+
+* [Wash sale](https://github.com/investindex/Taxes#wash-sale-rules)
+
+* [Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting)
+
+&nbsp;
+
+Not introduced anywhere in particular
 
 [Asset class](https://www.investopedia.com/terms/a/assetclasses.asp)
 
-[Capital gains distribution](https://www.investopedia.com/terms/c/capitalgainsdistribution.asp)
-
-[Total return](https://www.investopedia.com/terms/t/totalreturn.asp)
-
-[Rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp)
-
 [Brokerage account](https://www.investopedia.com/terms/b/brokerageaccount.asp)
 
-[Cash/Margin account](https://github.com/investindex/Practical#brokerage-accounts)
-
-[Tax-advantaged account](https://www.investopedia.com/articles/stocks/11/intro-tax-efficient-investing.asp) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
-
-[Qualified distribution](https://github.com/investindex/Guidelines#tax-advantaged-accounts)
-
-[Traditional/Roth plan](https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/)
-
-[(Un)compensated risk](https://github.com/investindex/Risk#two-broad-types-of-risk)
-
 [Automatic investment plan](https://www.investopedia.com/terms/a/automaticinvestmentplan.asp)
-
-[Bull market](https://www.investopedia.com/terms/b/bullmarket.asp)
-
-[Bear market](https://www.investopedia.com/terms/b/bearmarket.asp)
-
-[S&P 500](https://www.investopedia.com/terms/s/sp500.asp)
 
 [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp)
 
 [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp)
 
-[Market order](https://www.investopedia.com/terms/m/marketorder.asp)
-
-[Limit order](https://www.investopedia.com/terms/l/limitorder.asp)
-
-[Stock split](https://www.investopedia.com/ask/answers/what-stock-split-why-do-stocks-split/)
-
-[Holding period](https://www.investopedia.com/terms/h/holdingperiod.asp)
-
-[Taxable event](https://www.investopedia.com/terms/t/taxableevent.asp)
-
-[Long-term capital gain](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp)
-
-[Lot](https://www.investopedia.com/terms/t/taxlotaccounting.asp)
-
-[First in, first out (FIFO)](https://www.investopedia.com/terms/f/fifo.asp)
-
-[Qualified dividend](https://www.investopedia.com/terms/q/qualifieddividend.asp)
-
-[Wash sale](https://github.com/investindex/Taxes#wash-sale-rules)
-
-[Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting)
-
-[Value/growth stock](https://github.com/investindex/Portfolio)
-
 [Liquidity](https://www.investopedia.com/terms/l/liquidity.asp)
 
 [Inflation](https://www.investopedia.com/terms/i/inflation.asp)
-
-[Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp)
-
-[Credit risk](https://www.investopedia.com/ask/answers/022615/what-types-financial-situations-would-credit-spread-risk-be-applied-instead-default-risk.asp)
-
-[Interest rate risk](https://www.investopedia.com/ask/answers/05/ltbondrisk.asp)
 
 &nbsp;
 
