@@ -176,7 +176,7 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Qualified dividend](https://www.investopedia.com/terms/q/qualifieddividend.asp)
 
-* [Required minimum distributions](https://github.com/investindex/Taxes#traditional-iras)
+* [Required minimum distributions (RMDs)](https://github.com/investindex/Taxes#traditional-iras)
 
 * [Roth conversion](https://www.investopedia.com/roth-ira-conversion-rules-4770480)
 
