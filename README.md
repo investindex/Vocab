@@ -98,7 +98,13 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 
+* [Term life insurance](https://www.investopedia.com/terms/t/termlife.asp)
+
+* [Emergency fund](https://www.youtube.com/watch?v=vftjBTjFlzI)
+
 * [APY / APR](https://www.investopedia.com/terms/a/apy.asp)
+
+* [Credit freeze](https://github.com/investindex/Guidelines#f2)
 
 * [All-in-one asset allocation fund](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 
