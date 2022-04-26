@@ -140,6 +140,10 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 [Taxes](https://github.com/investindex/Taxes)
 
+* [Marginal/effective tax rates](https://github.com/investindex/Taxes#the-essentials)
+
+* [Gross income / AGI / MAGI](https://github.com/investindex/Taxes#the-essentials)
+
 * [Long-term capital gain](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp)
 
 * [Position](https://www.investopedia.com/terms/p/position.asp)
