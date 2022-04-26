@@ -116,7 +116,7 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 [Building a stock portfolio](https://github.com/investindex/Portfolio)
 
-* [Micro/small/mid/large/mega cap stock](https://github.com/investindex/Portfolio)
+* [Small/mid/large cap stock](https://github.com/investindex/Portfolio)
 
 * [Value/growth stock](https://github.com/investindex/Portfolio)
 
