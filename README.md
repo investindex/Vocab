@@ -16,6 +16,8 @@ The website [Portfolio Visualizer](https://www.portfoliovisualizer.com) provides
 
 The Research Affilates [website](https://www.researchaffiliates.com) has [a section](https://interactive.researchaffiliates.com/smart-beta) which estimates expected (excess) returns of various factors based on relative valuations. Research Affiliates is the organization that creates RAFI indices.
 
+&nbsp;
+
 ## Vocabulary
 
 Terms are ordered according to the section in which they were introduced. Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, or you don't totally understand what the Federal Reserve does, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates increase (or more accurately, if investors anticipate that interest rates will increase more than previously expected).
