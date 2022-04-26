@@ -1,5 +1,7 @@
 # Vocabulary and further resources
 
+## Resources
+
 For a book with concise coverage of the essentials of personal finance, read _The Index Card_ by Helaine Olen and Harold Pollack. (If you want to read it, click [here](https://github.com/investindex/Vocab/blob/main/TheIndexCard.epub) then click "download" on the right side of the screen.)
 
 Preet Banerjee’s YouTube channel has a series of short videos which explain investing step by step in basic terms, and I recommend those linked in [this playlist](https://www.youtube.com/watch?v=Arz_9WX-pn0&list=PLENfNwrAryOiK4QF3Ot8PZdZ-Vcx07HAP&index=1). Videos 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investment vehicles in this guide.
@@ -13,6 +15,8 @@ These three YouTubers are Canadian financial professionals, but nearly all of th
 The website [Portfolio Visualizer](https://www.portfoliovisualizer.com) provides an effortless means of backtesting various portfolios. For example, you can use the [asset allocation backtest tool](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) to compare the returns of US small cap value stocks vs. US cap-weighted stocks since 1972. The [portfolio backtest tool](https://www.portfoliovisualizer.com/backtest-portfolio) lets you compare the total return of specific funds as far back as 1985. On a more advanced level, you can use [this part](https://www.portfoliovisualizer.com/factor-analysis) of the website to test what exposure to different factors a given fund has achieved by simply typing in its ticker symbol and selecting the Fama-French five-factor model (or other models like the AQR model if you're interested). Be aware that the factor regression is valid only for funds that invest in US stocks.
 
 The Research Affilates [website](https://www.researchaffiliates.com) has [a section](https://interactive.researchaffiliates.com/smart-beta) which estimates expected (excess) returns of various factors based on relative valuations. Research Affiliates is the organization that creates RAFI indices.
+
+## Vocabulary
 
 Terms are ordered according to the section in which they were introduced. Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, or you don't totally understand what the Federal Reserve does, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates increase (or more accurately, if investors anticipate that interest rates will increase more than previously expected).
 
