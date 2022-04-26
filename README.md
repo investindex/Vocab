@@ -70,11 +70,11 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Bond](https://www.investopedia.com/terms/b/bond.asp) / [Fixed income](https://www.investopedia.com/terms/f/fixedincome.asp)
 
-* [Interest rate](https://www.investopedia.com/terms/i/interestrate.asp)
-
-* [Credit risk](https://www.investopedia.com/ask/answers/022615/what-types-financial-situations-would-credit-spread-risk-be-applied-instead-default-risk.asp)
+* [Coupon payment](https://www.investopedia.com/terms/c/coupon.asp)
 
 * [Interest rate risk](https://www.investopedia.com/ask/answers/05/ltbondrisk.asp)
+
+* [Credit risk](https://www.investopedia.com/ask/answers/022615/what-types-financial-situations-would-credit-spread-risk-be-applied-instead-default-risk.asp)
 
 * [Current yield](https://www.investopedia.com/terms/c/currentyield.asp)
 
@@ -82,27 +82,47 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Bear market](https://www.investopedia.com/terms/b/bearmarket.asp)
 
-* [Rebalancing](https://github.com/investindex/Risk#rebalancing--risk-maintenance)
+* [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp)
 
 * [(Un)compensated risk](https://github.com/investindex/Risk#two-broad-types-of-risk)
 
-* [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp)
+* [Rebalancing](https://github.com/investindex/Risk#rebalancing--risk-maintenance)
+
+&nbsp;
+
+[Your psychology](https://github.com/investindex/Psychology)
+
+* [Dollar cost averaging](https://github.com/investindex/Psychology#mistakes-made-when-buying-in)
 
 &nbsp;
 
 [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 
-* [Tax-advantaged account](https://www.investopedia.com/articles/stocks/11/intro-tax-efficient-investing.asp) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
+* [APY / APR](https://www.investopedia.com/terms/a/apy.asp)
+
+* [All-in-one asset allocation fund](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
+
+* [Target retirement fund](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
+
+* [Tax-advantaged account](https://github.com/investindex/Guidelines#tax-advantaged-accounts) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
 
 * [Qualified distribution](https://github.com/investindex/Guidelines#tax-advantaged-accounts)
 
 * [Traditional/Roth plan](https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/)
 
+* [FICA taxes](https://www.investopedia.com/terms/f/fica.asp)
+
 &nbsp;
 
 [Building a stock portfolio](https://github.com/investindex/Portfolio)
 
+* [Micro/small/mid/large/mega cap stock](https://github.com/investindex/Portfolio)
+
 * [Value/growth stock](https://github.com/investindex/Portfolio)
+
+* [Developed and emerging markets](https://github.com/investindex/Portfolio)
+
+* [Risk factor](https://github.com/investindex/Portfolio#moving-beyond-market-cap-weighting)
 
 * [Diversification](https://github.com/investindex/Portfolio#clarifying-diversification)
 
@@ -120,15 +140,11 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 [Taxes](https://github.com/investindex/Taxes)
 
-* [Cost basis](https://www.investopedia.com/terms/c/costbasis.asp)
+* [Long-term capital gain](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp)
 
 * [Position](https://www.investopedia.com/terms/p/position.asp)
 
 * [Holding period](https://www.investopedia.com/terms/h/holdingperiod.asp)
-
-* [Taxable event](https://www.investopedia.com/terms/t/taxableevent.asp)
-
-* [Long-term capital gain](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp)
 
 * [Tax lot](https://www.investopedia.com/terms/t/taxlotaccounting.asp)
 
@@ -136,19 +152,27 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Qualified dividend](https://www.investopedia.com/terms/q/qualifieddividend.asp)
 
+* [Required minimum distributions](https://github.com/investindex/Taxes#traditional-iras)
+
 * [Roth conversion](https://www.investopedia.com/roth-ira-conversion-rules-4770480)
 
 * [Wash sale](https://github.com/investindex/Taxes#wash-sale-rules)
 
+* [Cost basis](https://www.investopedia.com/terms/c/costbasis.asp)
+
 * [Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting)
+
+* [Estimated tax payments](https://github.com/investindex/Taxes#estimated-tax-payments)
 
 &nbsp;
 
-Not introduced at all or anywhere in particular
+Not introduced at all or anywhere in detail
 
 * [Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ)
 
 * [Asset class](https://www.investopedia.com/terms/a/assetclasses.asp)
+
+* [Taxable event](https://www.investopedia.com/terms/t/taxableevent.asp)
 
 * [Brokerage account](https://www.investopedia.com/terms/b/brokerageaccount.asp)
 
