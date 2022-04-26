@@ -136,6 +136,12 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Limit order](https://www.investopedia.com/terms/l/limitorder.asp)
 
+* [Day order](https://www.investopedia.com/terms/d/dayorder.asp)
+
+* [Good 'Til Canceled (GTC) order](https://www.investopedia.com/terms/g/gtc.asp)
+
+* [Mutual fund exchange](https://github.com/investindex/Practical#mutual-funds)
+
 &nbsp;
 
 [Taxes](https://github.com/investindex/Taxes)
