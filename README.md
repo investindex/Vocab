@@ -198,7 +198,7 @@ Not introduced at all or anywhere in detail
 
 * [Taxable event](https://www.investopedia.com/terms/t/taxableevent.asp)
 
-* [Brokerage account](https://www.investopedia.com/terms/b/brokerageaccount.asp)
+* [Brokerage account](https://www.schwab.com/brokerage/what-is-a-brokerage-account)
 
 * [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp)
 
