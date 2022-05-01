@@ -144,6 +144,8 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 [Practical information for execution](https://github.com/investindex/Practical)
 
+* [Settlement period](https://www.investopedia.com/terms/s/settlement_period.asp)
+
 * [Cash/Margin account](https://github.com/investindex/Practical#brokerage-accounts)
 
 * [Market order](https://www.investopedia.com/terms/m/marketorder.asp)
