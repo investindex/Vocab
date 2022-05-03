@@ -48,6 +48,8 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Stock split](https://www.investopedia.com/ask/answers/what-stock-split-why-do-stocks-split/)
 
+* [Brokerage account](https://www.schwab.com/brokerage/what-is-a-brokerage-account)
+
 * [Mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp)
 
 * [Exchange-traded fund (ETF)](https://www.investopedia.com/terms/e/etf.asp)
@@ -205,8 +207,6 @@ Not introduced at all or anywhere in detail
 * [Asset class](https://www.investopedia.com/terms/a/assetclasses.asp)
 
 * [Taxable event](https://www.investopedia.com/terms/t/taxableevent.asp)
-
-* [Brokerage account](https://www.schwab.com/brokerage/what-is-a-brokerage-account)
 
 * [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp)
 
