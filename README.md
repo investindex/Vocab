@@ -114,9 +114,9 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 
-* [Tax-advantaged account](https://github.com/investindex/Guidelines#tax-advantaged-accounts) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
+* [Tax-advantaged account](https://github.com/investindex/TaxAdv) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
 
-* [Qualified distribution](https://github.com/investindex/Guidelines#tax-advantaged-accounts)
+* [Qualified distribution](https://github.com/investindex/TaxAdv)
 
 * [Traditional/Roth plan](https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/)
 
