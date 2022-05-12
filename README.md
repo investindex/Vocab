@@ -112,6 +112,18 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 &nbsp;
 
+[Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
+
+* [Tax-advantaged account](https://github.com/investindex/Guidelines#tax-advantaged-accounts) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
+
+* [Qualified distribution](https://github.com/investindex/Guidelines#tax-advantaged-accounts)
+
+* [Traditional/Roth plan](https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/)
+
+* [FICA taxes](https://www.investopedia.com/terms/f/fica.asp)
+
+&nbsp;
+
 [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 
 * [Term life insurance](https://www.investopedia.com/terms/t/termlife.asp)
@@ -127,14 +139,6 @@ Terms are ordered according to the section in which they were introduced. Many o
 * [All-in-one asset allocation fund](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 
 * [Target retirement fund](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
-
-* [Tax-advantaged account](https://github.com/investindex/Guidelines#tax-advantaged-accounts) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
-
-* [Qualified distribution](https://github.com/investindex/Guidelines#tax-advantaged-accounts)
-
-* [Traditional/Roth plan](https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/)
-
-* [FICA taxes](https://www.investopedia.com/terms/f/fica.asp)
 
 &nbsp;
 
