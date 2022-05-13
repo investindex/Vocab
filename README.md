@@ -122,6 +122,8 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [FICA taxes](https://www.investopedia.com/terms/f/fica.asp)
 
+* [Required minimum distributions (RMDs)](https://github.com/investindex/Taxes#traditional-iras)
+
 &nbsp;
 
 [Guidelines for financial planning](https://github.com/investindex/Guidelines)
@@ -191,8 +193,6 @@ Terms are ordered according to the section in which they were introduced. Many o
 * [First in, first out (FIFO)](https://www.investopedia.com/terms/f/fifo.asp)
 
 * [Qualified dividend](https://www.investopedia.com/terms/q/qualifieddividend.asp)
-
-* [Required minimum distributions (RMDs)](https://github.com/investindex/Taxes#traditional-iras)
 
 * [Roth conversion](https://www.investopedia.com/roth-ira-conversion-rules-4770480)
 
