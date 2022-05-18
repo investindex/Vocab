@@ -118,11 +118,11 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Qualified distribution](https://github.com/investindex/TaxAdv)
 
-* [Traditional/Roth plan](https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/)
+* [Traditional/Roth plan]([https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/](https://github.com/investindex/TaxAdv#retirement-accounts))
 
 * [FICA taxes](https://www.investopedia.com/terms/f/fica.asp)
 
-* [Required minimum distributions (RMDs)](https://github.com/investindex/Taxes#traditional-iras)
+* [Required minimum distributions (RMDs)]([https://github.com/investindex/Taxes#traditional-iras](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds))
 
 &nbsp;
 
