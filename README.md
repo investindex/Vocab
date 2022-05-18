@@ -88,6 +88,8 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Coupon payment](https://www.investopedia.com/terms/c/coupon.asp)
 
+* [Face value (bond)](https://www.investopedia.com/terms/f/facevalue.asp)
+
 * [Interest rate risk](https://www.investopedia.com/ask/answers/05/ltbondrisk.asp)
 
 * [Credit risk](https://www.investopedia.com/ask/answers/022615/what-types-financial-situations-would-credit-spread-risk-be-applied-instead-default-risk.asp)
@@ -118,11 +120,11 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Qualified distribution](https://github.com/investindex/TaxAdv)
 
-* [Traditional/Roth plan]([https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/](https://github.com/investindex/TaxAdv#retirement-accounts))
+* [Traditional/Roth plan](https://github.com/investindex/TaxAdv#retirement-accounts)
 
 * [FICA taxes](https://www.investopedia.com/terms/f/fica.asp)
 
-* [Required minimum distributions (RMDs)]([https://github.com/investindex/Taxes#traditional-iras](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds))
+* [Required minimum distributions (RMDs)](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds)
 
 &nbsp;
 
