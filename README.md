@@ -108,12 +108,6 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 &nbsp;
 
-[Your psychology](https://github.com/investindex/Psychology)
-
-* [Dollar cost averaging](https://github.com/investindex/Psychology#mistakes-made-when-buying-in)
-
-&nbsp;
-
 [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 
 * [Tax-advantaged account](https://github.com/investindex/TaxAdv) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
@@ -157,6 +151,12 @@ Terms are ordered according to the section in which they were introduced. Many o
 * [Risk factor](https://github.com/investindex/Portfolio#moving-beyond-market-cap-weighting)
 
 * [Diversification](https://github.com/investindex/Portfolio#clarifying-diversification)
+
+&nbsp;
+
+[Your psychology](https://github.com/investindex/Psychology)
+
+* [Dollar cost averaging](https://github.com/investindex/Psychology#mistakes-made-when-buying-in)
 
 &nbsp;
 
@@ -239,11 +239,12 @@ All sections:
 * [Cover page](https://github.com/investindex/Intro)
 * [Introduction to index funds](https://github.com/investindex/Index)
 * [Thinking about risk](https://github.com/investindex/Risk)
-* [Your psychology](https://github.com/investindex/Psychology)
+* [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Investing for retirement](https://github.com/investindex/Retirement)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
+* [Your psychology](https://github.com/investindex/Psychology)
 * [Concerns for the small/large investor](https://github.com/investindex/Small)
 * [Practical information for execution](https://github.com/investindex/Practical)
 * [Taxes](https://github.com/investindex/Taxes)
