@@ -164,7 +164,7 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Settlement period](https://www.investopedia.com/terms/s/settlement_period.asp)
 
-* [Cash/Margin account](https://github.com/investindex/Practical#brokerage-accounts)
+* [Cash/Margin account](https://github.com/investindex/Practical#cash-and-margin-accounts)
 
 * [Market order](https://www.investopedia.com/terms/m/marketorder.asp)
 
