@@ -12,9 +12,13 @@ Ben Felix's [channel](https://www.youtube.com/c/BenFelixCSI/videos) has an unusu
 
 These three YouTubers are Canadian financial professionals, but nearly all of their advice applies universally. Many of their videos are linked throughout the guide. Patrick Boyle, a quantitative trader and hedge fund manager based in London, has a great [YouTube channel](https://www.youtube.com/c/PatrickBoyleOnFinance/videos) as well. His style of investing is far different than the one advocated in this guide, but his videos provide very informed (and funny!) commentary on current events and important issues in financial markets. In addition to those, I recommend [this playlist](https://www.youtube.com/playlist?list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw) of his lectures on portfolio management.
 
+&nbsp;
+
 [The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to medical professionals, as the name might suggest. Sign up for their email newsletters!
 
 [Bits about Money](https://bam.kalzumeus.com/) and [Net Interest](https://www.netinterest.co/) are superb blogs for nerds who want to learn about the inside baseball of banking and finance. Patrick McKenzie, the author of Bits about Money, is a great follow on Twitter [@patio11](https://twitter.com/patio11).
+
+&nbsp;
 
 [The ETF Research Center website](https://www.etfrc.com/funds/overlap.php) has a tool that calculates the overlap of the weighted allocation of different ETFs. For example, the overlap between VTI (total US) and VOO (the S&P 500) is currently 84%. The overlap between VT (total global) and AVUV (US small cap value) is currently 1%.
 
@@ -25,6 +29,8 @@ Some brokerage platforms have useful tools that can be accessed simply by creati
 <!--
 The Research Affilates [website](https://www.researchaffiliates.com) has [a section](https://interactive.researchaffiliates.com/smart-beta) which estimates expected (excess) returns of various factors based on relative valuations. Research Affiliates is the organization that creates RAFI indices.
 -->
+
+&nbsp;
 
 &nbsp;
 
