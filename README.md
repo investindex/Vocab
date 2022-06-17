@@ -36,7 +36,7 @@ The Research Affilates [website](https://www.researchaffiliates.com) has [a sect
 
 ## Vocabulary
 
-Terms are ordered according to the section in which they were introduced. Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, or you don't totally understand what the Federal Reserve does, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates increase (or more accurately, if investors anticipate that interest rates will increase more than previously expected).
+Terms are ordered according to the section in which they were introduced (or discussed in detail). Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, or you don't totally understand what the Federal Reserve does, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates increase (or more accurately, if investors anticipate that interest rates will increase more than previously expected).
 
 &nbsp;
 
@@ -174,6 +174,10 @@ Terms are ordered according to the section in which they were introduced. Many o
 
 * [Cash/Margin account](https://github.com/investindex/Practical#cash-and-margin-accounts)
 
+* [Position](https://www.investopedia.com/terms/p/position.asp)
+
+* [Pattern day trader (PDT) rule](https://www.investopedia.com/terms/p/patterndaytrader.asp)
+
 * [Market order](https://www.investopedia.com/terms/m/marketorder.asp)
 
 * [Limit order](https://www.investopedia.com/terms/l/limitorder.asp)
@@ -193,8 +197,6 @@ Terms are ordered according to the section in which they were introduced. Many o
 * [Gross income / AGI / MAGI](https://github.com/investindex/Taxes#the-essentials)
 
 * [Long-term capital gain](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp)
-
-* [Position](https://www.investopedia.com/terms/p/position.asp)
 
 * [Holding period](https://www.investopedia.com/terms/h/holdingperiod.asp)
 
