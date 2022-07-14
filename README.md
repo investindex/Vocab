@@ -4,6 +4,8 @@
 
 For a book with concise coverage of the essentials of personal finance, read _The Index Card_ by Helaine Olen and Harold Pollack. (If you want to read it, click [here](https://github.com/investindex/Vocab/blob/main/TheIndexCard.epub) then click "download" on the right side of the screen.)
 
+Brian Feroldi's book _[Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ answers many basic questions on how the stock market works.
+
 The books Larry Swedroe co-authored on [retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def) and [factor investing](https://libgen.rs/search.php?req=Berkin+Swedroe+Your+Complete+Guide+to+Factor-Based+Investing&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) are useful, detailed guides.
 
 [The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to medical professionals, as the name might suggest. Sign up for their email newsletters!
