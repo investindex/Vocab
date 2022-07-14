@@ -128,8 +128,6 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Traditional/Roth plan](https://github.com/investindex/TaxAdv#retirement-accounts)
 
-* [FICA taxes](https://www.investopedia.com/terms/f/fica.asp)
-
 * [Required minimum distributions (RMDs)](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds)
 
 &nbsp;
@@ -203,6 +201,8 @@ Terms are ordered according to the section in which they were introduced (or dis
 * [Long-term capital gain](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp)
 
 * [Holding period](https://www.investopedia.com/terms/h/holdingperiod.asp)
+
+* [FICA taxes](https://www.investopedia.com/terms/f/fica.asp)
 
 * [Tax lot](https://www.investopedia.com/terms/t/taxlotaccounting.asp)
 
