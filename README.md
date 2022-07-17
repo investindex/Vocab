@@ -6,7 +6,7 @@ For a book with concise coverage of the essentials of personal finance, read _[T
 
 Brian Feroldi's book _[Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ answers many questions on how the stock market works.
 
-Moshe Milevsky's book [Are You a Stock or a Bond?](https://libgen.rs/search.php?req=Milevsky+Are+you+a+stock+or+a+bond%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) discusses the interaction of your human capital with investment risk, as [explained in the section on risk](https://github.com/investindex/Risk#are-you-a-stock-or-a-bond).
+Moshe Milevsky's book _[Are You a Stock or a Bond?](https://libgen.rs/search.php?req=Milevsky+Are+you+a+stock+or+a+bond%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ discusses the interaction of your human capital with investment risk, as [explained in the section on risk](https://github.com/investindex/Risk#are-you-a-stock-or-a-bond).
 
 The books Larry Swedroe co-authored on [retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def) and [factor investing](https://libgen.rs/search.php?req=Berkin+Swedroe+Your+Complete+Guide+to+Factor-Based+Investing&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) are useful, detailed guides.
 
