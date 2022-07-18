@@ -277,7 +277,7 @@ All sections:
 
 &nbsp;
 
-<sup id="f1"> 1 </sup> In chapters 4, 7, and 13 (but mainly in 7), the book states that broad market index funds are "self-cleansing". "Companies routinely fade away and are replaced with new blood." Aside from the mixed metaphor, this is not correct. As Jeremy Siegel showed in _[Stocks for the Long Run](https://en.wikipedia.org/wiki/Stocks_for_the_Long_Run)_, the companies in the original S&P 500 index delivered better returns to investors than the actual S&P 500 index! The process of replacement did not help S&P 500 investors.
+<sup id="f1"> 1 </sup> In chapters 4, 7, and 13 (but mainly in 7), the book states that broad market index funds are "self-cleansing". "Companies routinely fade away and are replaced with new blood." Aside from the mixed metaphor, this is not correct. As Jeremy Siegel showed in _[Stocks for the Long Run](https://en.wikipedia.org/wiki/Stocks_for_the_Long_Run)_, the 500 companies in the original S&P 500 index delivered better returns to investors than the actual S&P 500 index! The process of reconstituting the index is not the secret sauce Collins claims; the opposite is true.
 
 In chapter 7, he writes that stock returns are distributed in something like a bell curve. The [reality](https://www.youtube.com/watch?v=xfdMDGIABek) is that stock returns are highly positively skewed. In other words, the returns of the overall market are driven by a tiny fraction of companies. This is very different than what a normal distribution implies.
 
