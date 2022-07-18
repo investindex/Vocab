@@ -12,7 +12,7 @@ Morgan Housel's book _[The Psychology of Money](https://libgen.is/search.php?req
 
 The books Larry Swedroe co-authored on [retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def) and [factor investing](https://libgen.rs/search.php?req=Berkin+Swedroe+Your+Complete+Guide+to+Factor-Based+Investing&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) are useful, detailed guides.
 
-A common recommendation for beginner investors is _The Simple Path to Wealth_ by J.L. Collins (and his series of blog posts [here](https://jlcollinsnh.com/stock-series/)). I don't recommend this reading. The book has, in my view, an irrational antagonism toward debt, highlighting lack of debt as a pillar of building wealth. (I suggest a more [balanced approach](https://github.com/investindex/Guidelines#debt-and-investment) to paying off debt.) The book also makes a few basic factual errors, perpetuating the [myth](https://github.com/investindex/Risk#f5) that the US stock market did not recover from the Great Depression until the 1950s, as well as claiming that stocks are "a pretty good inflation hedge". Note that an asset class which outperforms inflation globally over the long run is not necessarily a hedge against inflation; it must reliably respond positively to inflation in order to be a hedge, which stocks do not. Aside from these flaws, it offers boilerplate buy-and-hold advice that can be found in many other places.
+A common recommendation for beginner investors is _The Simple Path to Wealth_ by J.L. Collins (and his series of blog posts [here](https://jlcollinsnh.com/stock-series/)). I don't recommend this reading. The book has, in my view, an irrational antagonism toward debt, highlighting lack of debt as a pillar of building wealth. (I suggest a more [balanced approach](https://github.com/investindex/Guidelines#debt-and-investment) to paying off debt.) The book also makes a few basic factual errors.<sup id="fn1">[[1]](#f1)</sup> Aside from these flaws, it offers boilerplate buy-and-hold advice that can be found in many other places.
 
 &nbsp;
 
@@ -272,5 +272,25 @@ All sections:
 * [Taxes](https://github.com/investindex/Taxes)
 * [Vocabulary and further resources](https://github.com/investindex/Vocab)
 * [Advanced topics](https://github.com/investindex/Advanced)
+
+&nbsp;
+
+&nbsp;
+
+<sup id="f1"> 1 </sup> It perpetuates the [myth](https://github.com/investindex/Risk#f5) that the US stock market did not recover from the Great Depression until the 1950s.
+
+It claims that stocks are "a pretty good inflation hedge". Note that an asset class which outperforms inflation globally over the long run is not necessarily a hedge against inflation; it must reliably respond positively to inflation in order to be a hedge, which stocks do not.
+
+It claims that inflation "allows debtors, like the government, to pay back their creditors with 'cheaper dollars.'" This is a misunderstanding of how interest rates are settled upon in financial markets. Every interest rate has an assumption of inflation already baked into the interest rate. Higher expected inflation (or a higher perceived risk of unexpected inflation) would result in a higher interest rate to compensate the lender. Low, stable inflation has many benefits, but it does not benefit debtors in this way. [↩](#fn1)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
