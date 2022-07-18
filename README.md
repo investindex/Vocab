@@ -283,7 +283,7 @@ In chapter 7, he writes that stock returns are distributed in something like a b
 
 The title of chapter 8 is "Why most people lose money in the market". The research he cites shows that this isn't true. The bad news is that investors underperform the funds they invest in because of their attempts at market timing, but that doesn't mean they lose money!
 
-Chapter 9 perpetuates the [myth](https://github.com/investindex/Risk#f5) that the US stock market did not recover from the Great Depression until the 1950s. He discusses the difference made by reinvesting dividends earlier in the book, but appears to forget about it here.
+Chapter 9 perpetuates the [widespread myth](https://github.com/investindex/Risk#f5) that the US stock market did not recover from the Great Depression until the 1950s. He discusses the difference made by reinvesting dividends earlier in the book, but appears to forget about it here.
 
 The same chapter claims that stocks are "a pretty good inflation hedge". The term "inflation hedge" has a narrower meaning than he appears to think. An asset class does not become an inflation hedge simply by achieving returns higher than inflation (in the long run, globally). It must reliably respond positively to inflation in order to be a hedge, which stocks do not. He is correct that stocks outperform bonds in high-inflation environments, whereas bonds outperform stocks in deflationary environments (see Figure 16 on page 13 [here](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/credit-suisse-global-investment-returns-yearbook-2022-summary-edition.pdf)).
 
