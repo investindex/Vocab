@@ -277,11 +277,15 @@ All sections:
 
 &nbsp;
 
-<sup id="f1"> 1 </sup> It perpetuates the [myth](https://github.com/investindex/Risk#f5) that the US stock market did not recover from the Great Depression until the 1950s.
+<sup id="f1"> 1 </sup> In chapter 7, the book states that stock returns are distributed in something like a bell curve. The [reality](https://www.youtube.com/watch?v=xfdMDGIABek) is that stock returns are highly positively skewed. In other words, the returns of the overall market are driven by a tiny fraction of companies. This is not what a normal distribution implies.
 
-It claims that stocks are "a pretty good inflation hedge". Note that an asset class which outperforms inflation globally over the long run is not necessarily a hedge against inflation; it must reliably respond positively to inflation in order to be a hedge, which stocks do not.
+The title of chapter 8 is "Why most people lose money in the market". The research he cites shows that this isn't true. The bad news is that investors underperform the funds they invest in because of their attempts at market timing, but that doesn't mean they lose money!
 
-It claims that inflation "allows debtors, like the government, to pay back their creditors with 'cheaper dollars.'" This is a misunderstanding of how interest rates are settled upon in financial markets. Every interest rate has an assumption of inflation already baked into the interest rate. Higher expected inflation (or a higher perceived risk of unexpected inflation) would result in a higher interest rate to compensate the lender. Low, stable inflation has many benefits, but it does not benefit debtors in this way. [↩](#fn1)
+Chapter 9 perpetuates the [myth](https://github.com/investindex/Risk#f5) that the US stock market did not recover from the Great Depression until the 1950s.
+
+The same chapter claims that stocks are "a pretty good inflation hedge". Note that an asset class which outperforms inflation globally over the long run is not necessarily a hedge against inflation; it must reliably respond positively to inflation in order to be a hedge, which stocks do not. The term inflation "hedge" has a narrower meaning than he appears to think.
+
+Chapter 9 also states that inflation "allows debtors, like the government, to pay back their creditors with 'cheaper dollars.'" This is a misunderstanding of how interest rates are settled upon in financial markets. Every interest rate has an assumption of inflation already baked into the interest rate. Higher expected inflation (or a greater perceived risk of unexpectedly high inflation) would result in a higher interest rate to compensate the lender. Low, stable inflation has many benefits, but it does not benefit debtors in this way. [↩](#fn1)
 
 &nbsp;
 
