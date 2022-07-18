@@ -293,6 +293,12 @@ In chapters 14 and 16, he writes that it is best to hold bonds in tax-advantaged
 
 Throughout the book, Collins most frequently uses 11.9% as an expectation for US cap-weighted stock returns, based on the US returns in 1975-2014. Given the [global average](https://github.com/investindex/Risk#f1) of 8% since 1900, it is arguably irresponsible to tell beginner investors that they can expect 12% returns in the future, based on cherry-picking an unusually successful time interval in a country with unusually high historical returns. He does admit that future returns could be lower, and that 8% is a frequently used projection, but continues to use 11.9% to produce some very rosy calculations. [↩](#fn1)
 
+<!--
+His description of John Bogle's career in chapter 24 is fawning.
+-->
+
+
+
 &nbsp;
 
 &nbsp;
