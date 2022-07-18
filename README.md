@@ -12,7 +12,7 @@ Morgan Housel's book _[The Psychology of Money](https://libgen.is/search.php?req
 
 The books Larry Swedroe co-authored on [retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def) and [factor investing](https://libgen.rs/search.php?req=Berkin+Swedroe+Your+Complete+Guide+to+Factor-Based+Investing&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) are useful, detailed guides.
 
-A common recommendation for beginner investors is _The Simple Path to Wealth_ by J.L. Collins (and his series of blog posts [here](https://jlcollinsnh.com/stock-series/)). I don't recommend this reading. The book has, in my view, an irrational antagonism toward debt, highlighting lack of debt as a pillar of financial independence. It also makes a few basic factual errors, perpetuating the [myth](https://github.com/investindex/Risk#f5) that the US stock market did not recover from the Great Depression until the 1950s. Aside from these flaws, it offers boilerplate buy-and-hold advice that can be found in many other places.
+A common recommendation for beginner investors is _The Simple Path to Wealth_ by J.L. Collins (and his series of blog posts [here](https://jlcollinsnh.com/stock-series/)). I don't recommend this reading. The book has, in my view, an irrational antagonism toward debt, highlighting lack of debt as a pillar of building wealth. It also makes a few basic factual errors, perpetuating the [myth](https://github.com/investindex/Risk#f5) that the US stock market did not recover from the Great Depression until the 1950s. Aside from these flaws, it offers boilerplate buy-and-hold advice that can be found in many other places.
 
 &nbsp;
 
