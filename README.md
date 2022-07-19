@@ -303,7 +303,7 @@ Mr. Bogle came along and exposed industry stock-picking and advice as worthless 
 
 Mr. Bogle responded by creating the first S&P 500 index fund. The wails and gnashing of teeth continued even as Bogle's new fund went on to prove his theories in the real world."
 
-This is not unique to Collins; it is a fairly standard narrative about the birth of index funds and the sainthood of John Bogle. For the actual history of index funds, I would suggest reading the book _[Trillions: How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever](https://libgen.rs/search.php?req=Wigglesworth+Trillions&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_. [↩](#fn1)
+This is not unique to Collins; it is a fairly standard narrative about the birth of index funds and the sainthood of John Bogle. For more accurate information on the origin of index funds, I would suggest reading the book _[Trillions: How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever](https://libgen.rs/search.php?req=Wigglesworth+Trillions&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_. [↩](#fn1)
 
 &nbsp;
 
