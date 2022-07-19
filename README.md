@@ -291,13 +291,19 @@ Chapter 9 also states that inflation "allows debtors, like the government, to pa
 
 In chapters 14 and 16, he writes that it is best to hold bonds in tax-advantaged accounts. [This is debatable](https://github.com/investindex/Taxes#tax-efficient-investing), and it's certainly not something I would be comfortable writing as if it were a plain fact.
 
-Throughout the book, Collins most frequently uses 11.9% as an expectation for US cap-weighted stock returns, based on the US returns in 1975-2014. Given the [global average](https://github.com/investindex/Risk#f1) of 8% since 1900, it is arguably irresponsible to tell beginner investors that they can expect 12% returns in the future, based on cherry-picking an unusually successful time interval in a single country with unusually high historical returns. He does admit that future returns could be lower, and that 8% is a frequently used projection, but continues to use 11.9% to produce some very rosy calculations. This theme is developed further in chapter 29, in which he embraces the 4% rule, which is also based purely on historical US stock returns, and does not hold up in the stock returns of most other countries. [↩](#fn1)
+Throughout the book, Collins most frequently uses 11.9% as an expectation for US cap-weighted stock returns, based on the US returns in 1975-2014. Given the [global average](https://github.com/investindex/Risk#f1) of 8% since 1900, it is arguably irresponsible to tell beginner investors that they can expect 12% returns in the future, based on cherry-picking an unusually successful time interval in a single country with unusually high historical returns. He does admit that future returns could be lower, and that 8% is a frequently used projection, but continues to use 11.9% to produce some very rosy calculations. This theme is developed further in chapter 29, in which he embraces the 4% rule, which is based purely on historical US stock returns, and does not hold up in the stock returns of most other countries.
 
-<!--
-His description of John Bogle's career in chapter 24 is fawning.
--->
+&nbsp;
 
+The book's description of John Bogle's career is fawning. Here are some excerpts from chapter 24:
 
+"He is the creator of the modern low-cost index fund and my personal hero.
+...
+Mr. Bogle came along and exposed industry stock-picking and advice as worthless at best, harmful at worst ... Wall Street howled in protest and vilified him incessantly.
+
+Mr. Bogle responded by creating the first S&P 500 index fund. The wails and gnashing of teeth continued even as Bogle's new fund went on to prove his theories in the real world."
+
+This is not unique to Collins; it is a fairly standard narrative about the birth of index funds and the sainthood of John Bogle. For the actual history of index funds, I would suggest reading the book _[Trillions: How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever](https://libgen.rs/search.php?req=Wigglesworth+Trillions&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_. [↩](#fn1)
 
 &nbsp;
 
