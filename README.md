@@ -16,7 +16,11 @@ A common recommendation for beginner investors is _The Simple Path to Wealth_ by
 
 &nbsp;
 
+[The Finance Buff](https://thefinancebuff.com/blog) is a great explainer of many concepts in personal finance. I recommended his post on [Series I savings bonds](https://thefinancebuff.com/how-to-buy-i-bonds.html) in the section on risk.
+
 [The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to medical professionals, as the name might suggest. Sign up for their email newsletters!
+
+The [Bogleheads wiki](https://www.bogleheads.org/wiki/Main_Page) is a fantastic source of information. For example, in the tax section I recommend their entry on [tax-efficient fund placement](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement).
 
 [Bits about Money](https://bam.kalzumeus.com/) and [Net Interest](https://www.netinterest.co/) are superb blogs for nerds who want to learn about the inside baseball of banking and finance. Patrick McKenzie, the author of Bits about Money, is a great follow on Twitter [@patio11](https://twitter.com/patio11).
 
