@@ -4,7 +4,7 @@
 
 For a book with concise coverage of the essentials of personal finance, read _[The Index Card](https://libgen.rs/search.php?req=Olen+The+Index+Card&open=0&res=25&view=simple&phrase=1&column=def)_ by Helaine Olen and Harold Pollack.
 
-Brian Feroldi's book _[Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ answers many questions on how the stock market works.
+Brian Feroldi's book _[Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ is a brief book that answers many questions on how the stock market works.
 
 Moshe Milevsky's book _[Are You a Stock or a Bond?](https://libgen.rs/search.php?req=Milevsky+Are+you+a+stock+or+a+bond%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ discusses the interaction of your human capital with investment risk, as [explained in the section on risk](https://github.com/investindex/Risk#are-you-a-stock-or-a-bond).
 
