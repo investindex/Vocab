@@ -2,6 +2,8 @@
 
 ## Resources
 
+#### Books
+
 For a book with concise coverage of the essentials of personal finance, read _[The Index Card](https://libgen.rs/search.php?req=Olen+The+Index+Card&open=0&res=25&view=simple&phrase=1&column=def)_ by Helaine Olen and Harold Pollack.
 
 Brian Feroldi's book _[Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ is a quick read that answers many questions about how the stock market works.
@@ -16,6 +18,8 @@ A common recommendation for beginner investors is _The Simple Path to Wealth_ by
 
 &nbsp;
 
+#### Blogs
+
 [The Finance Buff](https://thefinancebuff.com/blog) is a great explainer of many concepts in personal finance. I recommended his post on [Series I savings bonds](https://thefinancebuff.com/how-to-buy-i-bonds.html) in the section on risk.
 
 [The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to medical professionals, as the name might suggest. Sign up for their email newsletters!
@@ -26,6 +30,8 @@ The [Bogleheads wiki](https://www.bogleheads.org/wiki/Main_Page) is a fantastic 
 
 &nbsp;
 
+#### YouTube
+
 Preet Banerjee’s YouTube channel has a series of short videos which explain investing step by step in basic terms, and I recommend those linked in [this playlist](https://www.youtube.com/watch?v=Arz_9WX-pn0&list=PLENfNwrAryOiK4QF3Ot8PZdZ-Vcx07HAP&index=1). Videos 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investments in this guide.
 
 At a higher level of difficulty, [The Plain Bagel](https://www.youtube.com/c/ThePlainBagel/videos) is a channel that covers many investment topics with great clarity.
@@ -35,6 +41,8 @@ Ben Felix's [channel](https://www.youtube.com/c/BenFelixCSI/videos) has an unusu
 These three YouTubers are Canadian financial professionals, but nearly all of their advice applies universally. Many of their videos are linked throughout the guide. Patrick Boyle, a quantitative trader and hedge fund manager based in London, has a great [YouTube channel](https://www.youtube.com/c/PatrickBoyleOnFinance/videos) as well. His style of investing is far different than the one advocated in this guide, but his videos provide very informed (and funny!) commentary on current events and important issues in financial markets. In addition to those, I recommend [this playlist](https://www.youtube.com/playlist?list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw) of his lectures on portfolio management.
 
 &nbsp;
+
+#### Other sites
 
 [The ETF Research Center website](https://www.etfrc.com/funds/overlap.php) has a tool that calculates the overlap of the weighted allocation of different ETFs. For example, the overlap between VTI (total US) and VOO (the S&P 500) is currently 84%. The overlap between VT (total global) and AVUV (US small cap value) is currently 1%.
 
@@ -52,7 +60,7 @@ The Research Affilates [website](https://www.researchaffiliates.com) has [a sect
 
 ## Vocabulary
 
-Terms are ordered according to the section in which they were introduced (or discussed in detail). Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, or you don't totally understand what the Federal Reserve does, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates increase (or more accurately, if investors anticipate that interest rates will increase more than previously expected).
+Terms are ordered according to the section in which they were introduced (or discussed in detail). Many of the links lead to the term’s Investopedia entry. Someone who has read this document and understands these concepts is probably ready to start carefully investing. Deep mastery is not always necessary: if you haven’t yet understood every nuance of bond pricing, or you don't totally understand what the Federal Reserve does, that is fine. But before you invest in a long-term bond ETF, you should understand the chief influences on the fund’s value, which includes knowing that the share price will dip if interest rates increase (or more accurately, if investors revise their expectations in the direction of interest rates increasing).
 
 &nbsp;
 
