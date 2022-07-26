@@ -4,6 +4,8 @@
 
 #### Books
 
+I highly recommend _[Trillions: How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever](https://libgen.rs/search.php?req=Wigglesworth+Trillions&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_. In the second half of the [only footnote](https://github.com/investindex/Vocab#f1) to this section, I draw on this book to describe many of the common misconceptions about the origin of index funds and the character of Jack Bogle, founder of Vanguard.
+
 For a book with concise coverage of the essentials of personal finance, read _[The Index Card](https://libgen.rs/search.php?req=Olen+The+Index+Card&open=0&res=25&view=simple&phrase=1&column=def)_ by Helaine Olen and Harold Pollack.
 
 Brian Feroldi's book _[Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ is a quick read that answers many questions about how the stock market works.
@@ -11,8 +13,6 @@ Brian Feroldi's book _[Why Does the Stock Market Go Up?](https://libgen.rs/searc
 Moshe Milevsky's book _[Are You a Stock or a Bond?](https://libgen.rs/search.php?req=Milevsky+Are+you+a+stock+or+a+bond%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ discusses the interaction of your human capital with investment risk, as [explained in the section on risk](https://github.com/investindex/Risk#are-you-a-stock-or-a-bond).
 
 Morgan Housel's book _[The Psychology of Money](https://libgen.is/search.php?req=Housel+The+Psychology+of+Money&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ jumps through a variety of foundational lessons about investing and sound financial behavior.
-
-I highly recommend _[Trillions: How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever](https://libgen.rs/search.php?req=Wigglesworth+Trillions&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_. In the [only footnote](https://github.com/investindex/Vocab#f1) to this section, I draw on this book to describe many of the common misconceptions about the origin of index funds and the character of Jack Bogle, founder of Vanguard.
 
 The books Larry Swedroe co-authored on [retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def) and [factor investing](https://libgen.rs/search.php?req=Berkin+Swedroe+Your+Complete+Guide+to+Factor-Based+Investing&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) are useful, detailed guides.
 
