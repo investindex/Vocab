@@ -323,7 +323,9 @@ The idea that Bogle "exposed" the industry of stock-picking is ahistorical. As d
 
 Rex Sinquefield managed to convert a fund at American National Bank to an S&P 500 index fund in September 1973, making it the first publicly marketed index fund. American National Bank later followed up with a small cap index fund and an international index fund. Dean LeBaron started offering an S&P 500 index fund in 1972 at his own startup company Batterymarch, but failed to attract a single institutional investor until late 1974. Paul Samuelson, one of the great economists of the 20th century, also helped by writing in support of index funds. Bogle does get credit for launching the first index fund available to retail investors; the predecessors to Vanguard's S&P 500 fund were available only to institutional investors, although ordinary people did benefit through their pension plans.
 
-See John McQuown's interview on the Rational Reminder [here](https://www.youtube.com/watch?v=C3kl-AiKUbs). [↩](#fn1)
+See John McQuown's interview on the Rational Reminder [here](https://www.youtube.com/watch?v=C3kl-AiKUbs).
+
+So why is the standard narrative about Bogle's crusade for index funds so popular? Partly because Bogle took it upon himself to revise his image as the patron saint of passive investing: in chapter 8 of _Trillions_, Wigglesworth wrote: "In his later years, Bogle spent much of his time polishing the legend of Jack Bogle, in fact so much so that some friends felt he was writing others out of the picture." [↩](#fn1)
 
 &nbsp;
 
