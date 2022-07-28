@@ -317,7 +317,9 @@ The description of [John Bogle](https://en.wikipedia.org/wiki/John_C._Bogle) in 
 
 "He is the creator of the modern low-cost index fund and my personal hero. ...
 
-Mr. Bogle came along and exposed industry stock-picking and advice as worthless at best, harmful at worst ... Wall Street howled in protest and vilified him incessantly.
+Before Mr. Bogle, the financial industry was set up almost exclusively to enrich those selling financial products at the expense of their customers. It mostly still is.
+
+Then Mr. Bogle came along and exposed industry stock-picking and advice as worthless at best, harmful at worst ... Wall Street howled in protest and vilified him incessantly.
 
 Mr. Bogle responded by creating the first S&P 500 index fund. The wails and gnashing of teeth continued even as Bogle's new fund went on to prove his theories in the real world."
 
