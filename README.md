@@ -323,7 +323,7 @@ Then Mr. Bogle came along and exposed industry stock-picking and advice as worth
 
 Mr. Bogle responded by creating the first S&P 500 index fund. The wails and gnashing of teeth continued even as Bogle's new fund went on to prove his theories in the real world. ...
 
-But increasingly over the past four decades the truth of Bogle's"
+But increasingly over the past four decades the truth of Bogle's idea has been repeatedly confirmed."
 
 &nbsp;
 
