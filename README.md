@@ -46,6 +46,8 @@ These three YouTubers are Canadian financial professionals, but nearly all of th
 
 #### Other sites
 
+[Dimensional Fund Advisors](https://www.dimensional.com/us-en/insights) and [Alpha Architect](https://alphaarchitect.com/blog/) publish high-quality, relevant research that anyone can access. If you use Reddit, you can join [Alpha Architect's subreddit](https://www.reddit.com/r/alphaarchitect/) to see posts linking to their research.
+
 [The ETF Research Center website](https://www.etfrc.com/funds/overlap.php) has a tool that calculates the overlap of the weighted allocation of different ETFs. For example, the overlap between VTI (total US) and VOO (the S&P 500) is currently 84%. The overlap between VT (total global) and AVUV (US small cap value) is currently 1%.
 
 The website [Portfolio Visualizer](https://www.portfoliovisualizer.com) provides an effortless means of backtesting various portfolios. For example, you can use the [asset allocation backtest tool](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) to compare the returns of US small cap value stocks vs. US cap-weighted stocks since 1972. The [portfolio backtest tool](https://www.portfoliovisualizer.com/backtest-portfolio) lets you compare the total return of specific funds as far back as 1985. On a more advanced level, you can use [this part](https://www.portfoliovisualizer.com/factor-analysis) of the website to test what exposure to different factors a given fund has achieved by simply typing in its ticker symbol and selecting the Fama-French five-factor model (or other models like the AQR model if you're interested). Be aware that the factor regression is valid only for funds that invest in US stocks.
@@ -154,6 +156,12 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 &nbsp;
 
+[Your psychology](https://github.com/investindex/Psychology)
+
+* [Dollar cost averaging](https://github.com/investindex/Psychology#mistakes-made-when-buying-in)
+
+&nbsp;
+
 [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 
 * [Term life insurance](https://www.investopedia.com/terms/t/termlife.asp)
@@ -183,12 +191,6 @@ Terms are ordered according to the section in which they were introduced (or dis
 * [Risk factor](https://github.com/investindex/Portfolio#moving-beyond-market-cap-weighting)
 
 * [Diversification](https://github.com/investindex/Portfolio#clarifying-diversification)
-
-&nbsp;
-
-[Your psychology](https://github.com/investindex/Psychology)
-
-* [Dollar cost averaging](https://github.com/investindex/Psychology#mistakes-made-when-buying-in)
 
 &nbsp;
 
