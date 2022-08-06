@@ -146,6 +146,8 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 
+* [Taxable event](https://www.investopedia.com/terms/t/taxableevent.asp)
+
 * [Tax-advantaged account](https://github.com/investindex/TaxAdv) - [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) / [IRA](https://www.investopedia.com/terms/i/ira.asp) / [HSA](https://www.investopedia.com/terms/h/hsa.asp) / [529](https://www.investopedia.com/terms/1/529plan.asp)
 
 * [Qualified distribution](https://github.com/investindex/TaxAdv)
@@ -159,6 +161,16 @@ Terms are ordered according to the section in which they were introduced (or dis
 [Your psychology](https://github.com/investindex/Psychology)
 
 * [Dollar cost averaging](https://github.com/investindex/Psychology#mistakes-made-when-buying-in)
+
+* [Asset class](https://www.investopedia.com/terms/a/assetclasses.asp)
+
+&nbsp;
+
+[Investing for retirement](https://github.com/investindex/Retirement)
+
+* [Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ)
+
+* [Inflation](https://www.investopedia.com/terms/i/inflation.asp)
 
 &nbsp;
 
@@ -248,12 +260,6 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 Not introduced at all or anywhere in detail
 
-* [Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ)
-
-* [Asset class](https://www.investopedia.com/terms/a/assetclasses.asp)
-
-* [Taxable event](https://www.investopedia.com/terms/t/taxableevent.asp)
-
 * [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp)
 
 * [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp)
@@ -261,8 +267,6 @@ Not introduced at all or anywhere in detail
 * [Automatic investment plan](https://www.investopedia.com/terms/a/automaticinvestmentplan.asp)
 
 * [Liquidity](https://www.investopedia.com/terms/l/liquidity.asp)
-
-* [Inflation](https://www.investopedia.com/terms/i/inflation.asp)
 
 &nbsp;
 
