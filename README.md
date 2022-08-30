@@ -32,7 +32,7 @@ The [Bogleheads wiki](https://www.bogleheads.org/wiki/Main_Page) is a fantastic 
 
 [Bits about Money](https://bam.kalzumeus.com/) and [Net Interest](https://www.netinterest.co/) are superb blogs for nerds who want to learn about the inside baseball of banking and finance. Patrick McKenzie, the author of Bits about Money, is a great follow on Twitter [@patio11](https://twitter.com/patio11).
 
-The podcast [Odd Lots](https://www.bloomberg.com/oddlots-podcast) is a great explainer of timely topics in finance, for those who enjoy reading news about why they're losing money.
+The podcast [Odd Lots](https://www.bloomberg.com/oddlots-podcast) is a great explainer of timely topics in finance, for those who enjoy listening to news about why they're losing money.
 
 Preet Banerjee’s YouTube channel has a series of short videos which explain investing step by step in basic terms, and I recommend those linked in [this playlist](https://www.youtube.com/watch?v=Arz_9WX-pn0&list=PLENfNwrAryOiK4QF3Ot8PZdZ-Vcx07HAP&index=1). Videos 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investments in this guide.
 
