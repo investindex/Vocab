@@ -116,6 +116,8 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Ticker symbol](https://www.investopedia.com/terms/s/stocksymbol.asp)
 
+* [Share class](https://www.investopedia.com/terms/s/share_class.asp)
+
 &nbsp;
 
 [Thinking about risk](https://github.com/investindex/Risk)
