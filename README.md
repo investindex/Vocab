@@ -172,7 +172,11 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ)
 
+* [Compound annual growth rate](https://www.investopedia.com/terms/c/cagr.asp)
+
 * [Inflation](https://www.investopedia.com/terms/i/inflation.asp)
+
+* [Sequence of returns risk](https://www.forbes.com/advisor/retirement/sequence-of-returns-risk/)
 
 &nbsp;
 
