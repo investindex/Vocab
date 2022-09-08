@@ -78,7 +78,7 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Index fund](https://www.investopedia.com/terms/i/indexfund.asp)
 
-* [S&P 500](https://www.investopedia.com/terms/s/sp500.asp)
+* [S&P 500](https://www.youtube.com/watch?v=RR7e1Y-HJxQ)
 
 * [Market capitalization weighting](https://www.investopedia.com/terms/c/capitalizationweightedindex.asp)
 
