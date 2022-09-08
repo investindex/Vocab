@@ -214,6 +214,8 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Share class](https://www.investopedia.com/terms/s/share_class.asp)
 
+* [Shareholder fees](https://www.investor.gov/introduction-investing/investing-basics/glossary/mutual-fund-fees-and-expenses)
+
 * [Prospectus](https://www.investor.gov/introduction-investing/investing-basics/glossary/mutual-fund-prospectus)
 
 &nbsp;
