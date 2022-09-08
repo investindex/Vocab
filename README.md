@@ -116,8 +116,6 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Ticker symbol](https://www.investopedia.com/terms/s/stocksymbol.asp)
 
-* [Share class](https://www.investopedia.com/terms/s/share_class.asp)
-
 &nbsp;
 
 [Thinking about risk](https://github.com/investindex/Risk)
@@ -209,6 +207,14 @@ Terms are ordered according to the section in which they were introduced (or dis
 * [Risk factor](https://github.com/investindex/Portfolio#moving-beyond-market-cap-weighting)
 
 * [Diversification](https://github.com/investindex/Portfolio#clarifying-diversification)
+
+&nbsp;
+
+[Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
+
+* [Share class](https://www.investopedia.com/terms/s/share_class.asp)
+
+* [Prospectus](https://www.investor.gov/introduction-investing/investing-basics/glossary/mutual-fund-prospectus)
 
 &nbsp;
 
