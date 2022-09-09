@@ -154,6 +154,8 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Traditional/Roth plan](https://github.com/investindex/TaxAdv#retirement-accounts)
 
+* [Automatic investment plan](https://www.investopedia.com/terms/a/automaticinvestmentplan.asp)
+
 * [Required minimum distributions (RMDs)](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds)
 
 &nbsp;
@@ -238,6 +240,8 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Good 'Til Canceled (GTC) order](https://www.investopedia.com/terms/g/gtc.asp)
 
+* [Liquidity](https://www.investopedia.com/terms/l/liquidity.asp)
+
 * [Mutual fund exchange](https://github.com/investindex/Practical#mutual-funds)
 
 &nbsp;
@@ -269,18 +273,6 @@ Terms are ordered according to the section in which they were introduced (or dis
 * [Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting)
 
 * [Estimated tax payments](https://github.com/investindex/Taxes#estimated-tax-payments)
-
-&nbsp;
-
-Not introduced at all or anywhere in detail
-
-* [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp)
-
-* [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp)
-
-* [Automatic investment plan](https://www.investopedia.com/terms/a/automaticinvestmentplan.asp)
-
-* [Liquidity](https://www.investopedia.com/terms/l/liquidity.asp)
 
 &nbsp;
 
