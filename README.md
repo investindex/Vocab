@@ -172,7 +172,7 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 [Investing for retirement](https://github.com/investindex/Retirement)
 
-* [Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ)
+* [Compounding growth](https://www.youtube.com/watch?v=ACbu4XER_bQ&list=PLENfNwrAryOiK4QF3Ot8PZdZ-Vcx07HAP)
 
 * [Compound annual growth rate](https://www.investopedia.com/terms/c/cagr.asp)
 
