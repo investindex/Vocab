@@ -134,11 +134,11 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Yield to maturity (YTM)](https://www.investopedia.com/terms/y/yieldtomaturity.asp)
 
+* [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp)
+
 * [Bull market](https://www.investopedia.com/terms/b/bullmarket.asp)
 
 * [Bear market](https://www.investopedia.com/terms/b/bearmarket.asp)
-
-* [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp)
 
 * [(Un)compensated risk](https://github.com/investindex/Risk#two-broad-types-of-risk)
 
