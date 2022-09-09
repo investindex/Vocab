@@ -124,13 +124,15 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Coupon payment](https://www.investopedia.com/terms/c/coupon.asp)
 
-* [Face value (bond)](https://www.investopedia.com/terms/f/facevalue.asp)
+* [Face value / Par value (bond)](https://www.investopedia.com/terms/f/facevalue.asp)
 
 * [Interest rate risk](https://www.investopedia.com/ask/answers/05/ltbondrisk.asp)
 
 * [Credit risk](https://www.investopedia.com/ask/answers/022615/what-types-financial-situations-would-credit-spread-risk-be-applied-instead-default-risk.asp)
 
 * [Current yield](https://www.investopedia.com/terms/c/currentyield.asp)
+
+* [Yield to maturity (YTM)](https://www.investopedia.com/terms/y/yieldtomaturity.asp)
 
 * [Bull market](https://www.investopedia.com/terms/b/bullmarket.asp)
 
