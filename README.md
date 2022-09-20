@@ -250,7 +250,7 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 [Taxes](https://github.com/investindex/Taxes)
 
-* [Marginal/effective tax rates](https://github.com/investindex/Taxes#the-essentials)
+* [Marginal/effective tax rates](https://github.com/investindex/Taxes#the-basics)
 
 * [Gross income / AGI / MAGI](https://github.com/investindex/Taxes#the-essentials)
 
