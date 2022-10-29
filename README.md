@@ -182,7 +182,7 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 &nbsp;
 
-[Guidelines for financial planning](https://github.com/investindex/Guidelines)
+[Guidelines for personal finance](https://github.com/investindex/Guidelines)
 
 * [Term life insurance](https://www.investopedia.com/terms/t/termlife.asp)
 
