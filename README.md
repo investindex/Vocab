@@ -108,8 +108,6 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Return](https://www.investopedia.com/terms/r/return.asp)
 
-* [Total return](https://github.com/investindex/Risk#total-return)
-
 * [Expense ratio](https://www.investopedia.com/terms/e/expenseratio.asp)
 
 * [Basis point](https://www.investopedia.com/terms/b/basispoint.asp)
@@ -135,6 +133,8 @@ Terms are ordered according to the section in which they were introduced (or dis
 * [Yield to maturity (YTM)](https://www.investopedia.com/terms/y/yieldtomaturity.asp)
 
 * [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp)
+
+* [Total return](https://github.com/investindex/Risk#total-return)
 
 * [Bull market](https://www.investopedia.com/terms/b/bullmarket.asp)
 
