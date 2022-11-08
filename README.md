@@ -108,7 +108,7 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Return](https://www.investopedia.com/terms/r/return.asp)
 
-* [Total return](https://github.com/investindex/Risk#total-return--a-reminder)
+* [Total return](https://github.com/investindex/Risk#total-return)
 
 * [Expense ratio](https://www.investopedia.com/terms/e/expenseratio.asp)
 
