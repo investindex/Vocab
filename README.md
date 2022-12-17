@@ -192,7 +192,7 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Debit card lock](https://github.com/investindex/Guidelines#fraud-prevention)
 
-* [Credit freeze](https://github.com/investindex/Guidelines#f2)
+* [Credit freeze](https://github.com/investindex/Guidelines#f6)
 
 * [All-in-one asset allocation fund](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 
