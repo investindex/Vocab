@@ -331,15 +331,15 @@ In chapters 14 and 16, he writes that it is best to hold bonds in tax-advantaged
 
 The description of [John Bogle](https://en.wikipedia.org/wiki/John_C._Bogle) in _The Simple Path to Wealth_ is fawning. Here are some excerpts from chapter 24:
 
-> He is the creator of the modern low-cost index fund and my personal hero. ...
->
+> He is the creator of the modern low-cost index fund and my personal hero.
+> ...
 > Before Mr. Bogle, the financial industry was set up almost exclusively to enrich those selling financial products at the expense of their customers. It mostly still is.
 >
 > Then Mr. Bogle came along and exposed industry stock-picking and advice as worthless at best, harmful at worst ... Wall Street howled in protest and vilified him incessantly.
 >
-> Mr. Bogle responded by creating the first S&P 500 index fund. The wails and gnashing of teeth continued even as Bogle's new fund went on to prove his theories in the real world. ...
->
-> But increasingly over the past four decades the truth of Bogle's idea has been repeatedly confirmed."
+> Mr. Bogle responded by creating the first S&P 500 index fund. The wails and gnashing of teeth continued even as Bogle's new fund went on to prove his theories in the real world.
+> ...
+> But increasingly over the past four decades the truth of Bogle's idea has been repeatedly confirmed.
 
 &nbsp;
 
