@@ -30,9 +30,9 @@ A common recommendation for beginner investors is _The Simple Path to Wealth_ by
 
 The [Bogleheads wiki](https://www.bogleheads.org/wiki/Main_Page) is a fantastic source of information. For example, in the tax section I recommended their entry on [tax-efficient fund placement](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement).
 
-[Bits about Money](https://bam.kalzumeus.com/) and [Net Interest](https://www.netinterest.co/) are superb blogs for nerds who want to learn about the inside baseball of banking and finance. Patrick McKenzie, the author of Bits about Money, is a great follow on Twitter [@patio11](https://twitter.com/patio11).
+[Bits about Money](https://www.bitsaboutmoney.com/) and [Net Interest](https://www.netinterest.co/) are superb blogs for nerds who want to learn about the inside baseball of banking and finance. Patrick McKenzie, the author of Bits about Money, is a great follow on Twitter [@patio11](https://twitter.com/patio11). He has a rousing guide to salary negotiation [here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/).
 
-The podcast [Odd Lots](https://www.bloomberg.com/oddlots-podcast) is a great explainer of timely topics in finance, for those who enjoy listening to news about why they're losing money.
+The podcast [Odd Lots](https://www.bloomberg.com/oddlots-podcast) is a great explainer of timely topics in finance, mainly through interviews with experts on whatever is relevant to markets and the economy.
 
 Preet Banerjee’s YouTube channel has a series of short videos which explain investing step by step in basic terms, and I recommend those linked in [this playlist](https://www.youtube.com/watch?v=Arz_9WX-pn0&list=PLENfNwrAryOiK4QF3Ot8PZdZ-Vcx07HAP&index=1). Videos 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investments in this guide.
 
