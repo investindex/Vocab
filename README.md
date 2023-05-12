@@ -46,6 +46,8 @@ These three YouTubers are Canadian financial professionals, but nearly all of th
 
 #### Other sites
 
+Reddit has several forums (subreddits) with great discussion of financial issues as well as wikis that provide some of the best compiled information on the internet. Subreddits I've found useful include [r/personalfinance](https://www.reddit.com/r/personalfinance/), [r/investing](https://www.reddit.com/r/investing/), [r/banking](https://www.reddit.com/r/Banking/), and [r/creditcards](https://www.reddit.com/r/CreditCards/).
+
 [Dimensional Fund Advisors](https://www.dimensional.com/us-en/insights), [Alpha Architect](https://alphaarchitect.com/blog/), and [AQR](https://www.aqr.com/Insights/Research) publish high-quality, relevant research. If you use Reddit, you can join [Alpha Architect's subreddit](https://www.reddit.com/r/alphaarchitect/) to see posts linking to their research.
 
 [The ETF Research Center website](https://www.etfrc.com/funds/overlap.php) has a tool that calculates the overlap of the weighted allocation of different ETFs. For example, the overlap between VTI (total US) and VOO (the S&P 500) is currently 84%. The overlap between VT (total global) and AVUV (US small cap value) is currently 1%. The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) and [ETF.com](https://www.etf.com/sections/etf-league-tables.html) are great resources for comparing and searching for ETFs.
