@@ -46,7 +46,7 @@ These three YouTubers are Canadian financial professionals, but nearly all of th
 
 #### Other sites
 
-Reddit has several forums (subreddits) with great discussion of financial issues as well as wikis that provide some of the best compiled information on the internet. Subreddits I've found useful include [r/personalfinance](https://www.reddit.com/r/personalfinance/), [r/investing](https://www.reddit.com/r/investing/), [r/banking](https://www.reddit.com/r/Banking/), and [r/creditcards](https://www.reddit.com/r/CreditCards/).
+Reddit has several forums (subreddits) with great discussion of financial issues as well as wikis that provide some of the best compiled information on the internet. Subreddits I've found useful include [r/personalfinance](https://www.reddit.com/r/personalfinance/), [r/scams](https://www.reddit.com/r/Scams/), [r/investing](https://www.reddit.com/r/investing/), [r/banking](https://www.reddit.com/r/Banking/), and [r/creditcards](https://www.reddit.com/r/CreditCards/).
 
 [Dimensional Fund Advisors](https://www.dimensional.com/us-en/insights), [Alpha Architect](https://alphaarchitect.com/blog/), and [AQR](https://www.aqr.com/Insights/Research) publish high-quality, relevant research. If you use Reddit, you can join [Alpha Architect's subreddit](https://www.reddit.com/r/alphaarchitect/) to see posts linking to their research.
 
