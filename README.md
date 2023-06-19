@@ -24,7 +24,7 @@ A common recommendation for beginner investors is _The Simple Path to Wealth_ by
 
 #### Blogs, Podcasts, YouTube
 
-[The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to physicians. They also have many posts directed at members of the US military, because the founder was a military physician. Consider signing up for their email newsletters.
+[The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to physicians. They also have many posts directed at members of the US military, because the founder was a military physician. Consider signing up for their email newsletters. __This is my strongest recommendation for information on many topics, such as tax-advantaged accounts.__
 
 [The Finance Buff](https://thefinancebuff.com/blog) is a great explainer of many concepts in personal finance. I recommended his post on [Series I savings bonds](https://thefinancebuff.com/how-to-buy-i-bonds.html) in the section on risk.
 
@@ -38,7 +38,7 @@ Preet Banerjee’s YouTube channel has a series of short videos which explain in
 
 At a higher level of difficulty, [The Plain Bagel](https://www.youtube.com/c/ThePlainBagel/videos) is a channel that covers many investment topics with great clarity.
 
-Ben Felix's [channel](https://www.youtube.com/c/BenFelixCSI/videos) has an unusual level of technical explanation, while still being very accessible. He provides extensive scholarly citations to support his views on investing. He also co-hosts a podcast called [The Rational Reminder](https://www.youtube.com/c/RATIONALREMINDER/videos), where he interviews experts or explores the evidence on a variety of investing topics. [Click here](https://www.youtube.com/watch?v=we_7F5N3ByQ) to see a video in which he outlines the basics of investing according to his views.
+Ben Felix's [channel](https://www.youtube.com/c/BenFelixCSI/videos) has an unusual level of technical explanation, while still being very accessible. He provides extensive scholarly citations to support his views on investing. He also co-hosts a podcast called [The Rational Reminder](https://www.youtube.com/c/RATIONALREMINDER/videos), where he interviews experts or explores the evidence on a variety of investing topics. [Click here](https://www.youtube.com/watch?v=we_7F5N3ByQ) to see a video in which he outlines the basics of investing according to his views. __This is my strongest recommendation for information on portfolio management.__
 
 These three YouTubers are Canadian financial professionals, but nearly all of their advice applies universally. Many of their videos are linked throughout the guide. [Patrick Boyle](https://www.youtube.com/c/PatrickBoyleOnFinance/videos), a London-based professor and former hedge fund manager, has a great YouTube channel as well. His style of investing is far different than the one advocated in this guide, but his videos provide very informed (and funny!) commentary on current events and important issues in financial markets. In addition to his regular stream of videos, I recommend [this playlist](https://www.youtube.com/playlist?list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw) of his lectures on portfolio management.
 
