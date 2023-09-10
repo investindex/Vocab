@@ -188,15 +188,21 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 [Guidelines for personal finance](https://github.com/investindex/Guidelines)
 
+* [Unrecoverable costs (housing)](https://github.com/investindex/Guidelines#carefully-consider-whether-to-rent-or-buy-your-home)
+
 * [Term life insurance](https://www.investopedia.com/terms/t/termlife.asp)
 
 * [Emergency fund](https://www.youtube.com/watch?v=vftjBTjFlzI)
+
+* [Money market fund](https://www.investopedia.com/terms/m/money-marketfund.asp)
 
 * [APY / APR](https://www.investopedia.com/terms/a/apy.asp)
 
 * [Debit card lock](https://github.com/investindex/Guidelines#fraud-prevention)
 
 * [Credit freeze](https://github.com/investindex/Guidelines#f6)
+
+* [Beneficiary](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
 
 * [All-in-one asset allocation fund](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 
