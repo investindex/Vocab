@@ -184,6 +184,8 @@ Terms are ordered according to the section in which they were introduced (or dis
 
 * [Sequence of returns risk](https://www.forbes.com/advisor/retirement/sequence-of-returns-risk/)
 
+* [Glide path](https://www.thebalancemoney.com/glide-path-formula-definition-and-example-4582110)
+
 &nbsp;
 
 [Guidelines for personal finance](https://github.com/investindex/Guidelines)
