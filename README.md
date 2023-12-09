@@ -24,7 +24,7 @@ A common recommendation for beginner investors is _The Simple Path to Wealth_ by
 
 #### Blogs, Podcasts, YouTube
 
-[The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to physicians. They also have many posts directed at members of the US military, because the founder was a military physician. Consider signing up for their email newsletters. __The White Coat Investor is my strongest recommendation for information on many topics, such as tax-advantaged accounts and life insurance.__
+[The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to physicians. They also have many posts directed at members of the US military, because the founder was a military physician. Consider signing up for their [email newsletters](https://www.whitecoatinvestor.com/free-monthly-newsletter/). __The White Coat Investor is my strongest recommendation for information on many topics, such as tax-advantaged accounts and life insurance.__
 
 [The Finance Buff](https://thefinancebuff.com/blog) is a great explainer of many concepts in personal finance. I recommended his post on [Series I savings bonds](https://thefinancebuff.com/how-to-buy-i-bonds.html) in the section on risk.
 
