@@ -30,7 +30,7 @@ A common recommendation for beginner investors is _The Simple Path to Wealth_ by
 
 The [Bogleheads wiki](https://www.bogleheads.org/wiki/Main_Page) is a good source of information. For example, in the tax section I recommended their entry on [tax-efficient fund placement](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement).
 
-[90 Days from Retirement](https://www.youtube.com/@90DaysFromRetirement/videos) has some of the best explanations of complex issues involving Social Security, Medicare, and estate planning. Anyone who is 60+ or who wants to help someone that age would find this channel very helpful.
+[The Retirement Nerds](https://www.youtube.com/@Theretirementnerds/videos) channel has some of the best explanations of complex issues involving Social Security, Medicare, and estate planning. Anyone who is 60+ or who wants to help someone that age would find this channel very helpful.
 
 [Bits about Money](https://www.bitsaboutmoney.com/) and [Net Interest](https://www.netinterest.co/) are superb blogs for nerds who want to learn about the inside baseball of banking and finance. Patrick McKenzie, the author of Bits about Money, is a great follow on Twitter [@patio11](https://twitter.com/patio11). He has a rousing guide to salary negotiation [here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/).
 
