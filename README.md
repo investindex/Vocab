@@ -4,13 +4,15 @@
 
 #### Blogs, Podcasts, YouTube
 
-My strongest recommendation on money and psychology is Ramit Sethi's podcast [I Will Teach You To Be Rich](https://www.youtube.com/@ramitsethi/videos). I described why I love is and linked to some episodes at the top of the [psychology section](https://github.com/investindex/Psychology).
+My strongest recommendation on money and psychology is Ramit Sethi's podcast [I Will Teach You To Be Rich](https://www.youtube.com/@ramitsethi/videos). I described why I love it and linked to some episodes at the top of the [psychology section](https://github.com/investindex/Psychology).
 
 [The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to physicians. They also have many posts directed at members of the US military, because the founder was a military physician. Consider signing up for their [email newsletters](https://www.whitecoatinvestor.com/free-monthly-newsletter/). __The White Coat Investor is my strongest recommendation for information on many topics, such as tax-advantaged accounts and life insurance.__
 
+Ben Felix's [channel](https://www.youtube.com/@BenFelixCSI/videos) has an unusual level of technical explanation, while still being very accessible. He provides extensive scholarly citations to support his views on investing. He also co-hosts a podcast called [The Rational Reminder](https://www.youtube.com/@rationalreminder/videos), where he interviews experts or explores the evidence on a variety of investing topics. [Click here](https://www.youtube.com/watch?v=we_7F5N3ByQ) to see a video in which he outlines the basics of investing according to his views. The Rational Reminder podcast has a [community forum](https://community.rationalreminder.ca/) with great discussion from well-informed listeners. __The Rational Reminder is my strongest recommendation for information on portfolio management.__
+
 [The Finance Buff](https://thefinancebuff.com/blog) is a great explainer of many concepts in personal finance. I recommended his post on [Series I savings bonds](https://thefinancebuff.com/how-to-buy-i-bonds.html) in the section on risk.
 
-The [Bogleheads wiki](https://www.bogleheads.org/wiki/Main_Page) is a good source of information. For example, in the tax section I recommended their entry on [tax-efficient fund placement](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement).
+<!-- The [Bogleheads wiki](https://www.bogleheads.org/wiki/Main_Page) is a broad source of information if you want to read something introductory on a particular topic. -->
 
 [The Retirement Nerds](https://www.youtube.com/@Theretirementnerds/videos) channel has some of the best explanations of complex issues involving Social Security, Medicare, and estate planning. Anyone who is 60+ or who wants to help someone that age would find this channel very helpful.
 
@@ -20,11 +22,9 @@ The podcast [Odd Lots](https://www.bloomberg.com/oddlots-podcast) is a great exp
 
 Preet Banerjee’s YouTube channel has a series of short videos which explain investing step by step in basic terms, and I recommend those linked in [this playlist](https://www.youtube.com/watch?v=Arz_9WX-pn0&list=PLENfNwrAryOiK4QF3Ot8PZdZ-Vcx07HAP&index=1). Videos 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investments in this guide.
 
-At a higher level of difficulty, [The Plain Bagel](https://www.youtube.com/@ThePlainBagel/videos) is a channel that covers many investment topics with great clarity.
+[The Plain Bagel](https://www.youtube.com/@ThePlainBagel/videos) is a channel that covers many investment topics with great clarity.
 
-Ben Felix's [channel](https://www.youtube.com/@BenFelixCSI/videos) has an unusual level of technical explanation, while still being very accessible. He provides extensive scholarly citations to support his views on investing. He also co-hosts a podcast called [The Rational Reminder](https://www.youtube.com/@rationalreminder/videos), where he interviews experts or explores the evidence on a variety of investing topics. [Click here](https://www.youtube.com/watch?v=we_7F5N3ByQ) to see a video in which he outlines the basics of investing according to his views. The Rational Reminder podcast has a [community forum](https://community.rationalreminder.ca/) with great discussion from well-informed listeners. __The Rational Reminder is my strongest recommendation for information on portfolio management.__
-
-These three YouTubers are Canadian financial professionals, but nearly all of their advice applies universally. Many of their videos are linked throughout the guide. [Patrick Boyle](https://www.youtube.com/@PBoyle/videos), a London-based professor and former hedge fund manager, has a great YouTube channel as well. His style of investing is far different than the one advocated in this guide, but his videos provide very informed (and funny!) commentary on current events and important issues in financial markets. In addition to his regular stream of videos, I recommend [this playlist](https://www.youtube.com/playlist?list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw) of his lectures on portfolio management.
+[Patrick Boyle](https://www.youtube.com/@PBoyle/videos), a London-based professor and former hedge fund manager, has a great YouTube channel as well. His style of investing is far different than the one advocated in this guide, but his videos provide very informed (and funny!) commentary on current events and important issues in financial markets. In addition to his regular stream of videos, I recommend [this playlist](https://www.youtube.com/playlist?list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw) of his lectures on portfolio management.
 
 &nbsp;
 
