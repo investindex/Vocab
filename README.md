@@ -4,7 +4,7 @@
 
 #### Blogs, Podcasts, YouTube
 
-My strongest recommendation on money and psychology is Ramit Sethi's podcast [I Will Teach You To Be Rich](https://www.youtube.com/@ramitsethi/videos). I described why I love it and linked to some episodes at the top of the [psychology section](https://github.com/investindex/Psychology).
+My strongest recommendation on money and psychology is Ramit Sethi's podcast [_I Will Teach You To Be Rich_](https://www.youtube.com/@ramitsethi/videos). I described why I love it and linked to some episodes at the top of the [psychology section](https://github.com/investindex/Psychology).
 
 [The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to physicians. They also have many posts directed at members of the US military, because the founder was a military physician. Consider signing up for their [email newsletters](https://www.whitecoatinvestor.com/free-monthly-newsletter/). __The White Coat Investor is my strongest recommendation for information on many topics, such as tax-advantaged accounts and life insurance.__
 
