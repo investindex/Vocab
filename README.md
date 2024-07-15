@@ -2,27 +2,9 @@
 
 ## Resources
 
-#### Books
-
-I highly recommend _[Trillions: How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever](https://libgen.rs/search.php?req=Wigglesworth+Trillions&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_. This well-researched book details how the intellectual foundations of passive investing were built; the dramatic stories of how Vanguard, BlackRock, and Dimensional Fund Advisors developed into dominant asset managers; and how ETFs gradually transformed the investing landscape. In [part of the only footnote](https://github.com/investindex/Vocab#on-misconceptions-about-john-bogle) in this section, I drew on this book to describe many of the common misconceptions about the origin of index funds and the character of [John Bogle](https://en.wikipedia.org/wiki/John_C._Bogle), founder of Vanguard.
-
-For a book with concise coverage of the essentials of personal finance, read _[The Index Card](https://libgen.rs/search.php?req=Olen+The+Index+Card&open=0&res=25&view=simple&phrase=1&column=def)_ by Helaine Olen and Harold Pollack.
-
-Brian Feroldi's book _[Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ is a quick read that answers many questions about how the stock market works.
-
-Moshe Milevsky's book _[Are You a Stock or a Bond?](https://libgen.rs/search.php?req=Milevsky+Are+you+a+stock+or+a+bond%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ discusses the interaction of your human capital with investment risk, as [explained in the section on risk](https://github.com/investindex/Risk#are-you-a-stock-or-a-bond). Milevsky's interview on The Rational Reminder is [here](https://www.youtube.com/watch?v=529qY1f64gc).
-
-Morgan Housel's book _[The Psychology of Money](https://libgen.rs/search.php?req=Housel+The+Psychology+of+Money&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ jumps through a variety of foundational lessons about investing and sound financial behavior. His interview on The Rational Reminder is [here](https://www.youtube.com/watch?v=NSaRb-iFwPA).
-
-The books Larry Swedroe co-authored on [retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Retirement&open=0&res=25&view=simple&phrase=1&column=def) and [factor investing](https://libgen.rs/search.php?req=Berkin+Swedroe+Your+Complete+Guide+to+Factor-Based+Investing&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) are useful, detailed guides.
-
-A common recommendation for beginner investors is _The Simple Path to Wealth_ by J.L. Collins (and his series of blog posts [here](https://jlcollinsnh.com/stock-series/)). I don't recommend this reading. The book has multiple factual errors detailed in this footnote.<sup id="fn1">[[1]](#f1)</sup> Aside from these flaws, it offers boilerplate buy-and-hold advice that can be found in many other places. The book also has, in my view, an irrational antagonism toward debt, highlighting lack of debt as a pillar of building wealth. (I suggest a more [balanced approach](https://github.com/investindex/Guidelines#debt-and-investment) to paying off debt.)
-
-[_The Millionaire Next Door_](https://libgen.rs/search.php?req=millionaire+next+door&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) discusses the results of extensive study of people with high net worth. It emphasizes the traits that can eventually make people with unexceptional incomes into millionaires. Advice from the book includes: live frugally and spend much less than you make; invest your savings; explicitly budget your spending; value financial independence; understand how to minimize taxes; avoid luxury expenses that conspicuously signal wealth rather than build it; marry someone at least as frugal as you are; and encourage your children to become self-sufficient. High income helps too, of course, but is not strictly necessary to reach a seven-figure net worth by middle or old age. Aside from some fun anecdotes, that is the essence of the entire book.
-
-&nbsp;
-
 #### Blogs, Podcasts, YouTube
+
+My strongest recommendation on money and psychology is Ramit Sethi's podcast [I Will Teach You To Be Rich](https://www.youtube.com/@ramitsethi/videos). I described why I love is and linked to some episodes at the top of the [psychology section](https://github.com/investindex/Psychology).
 
 [The White Coat Investor](https://www.whitecoatinvestor.com/) is a tremendous resource for finance and investing, and most of the info they publish is not specific to physicians. They also have many posts directed at members of the US military, because the founder was a military physician. Consider signing up for their [email newsletters](https://www.whitecoatinvestor.com/free-monthly-newsletter/). __The White Coat Investor is my strongest recommendation for information on many topics, such as tax-advantaged accounts and life insurance.__
 
@@ -43,6 +25,26 @@ At a higher level of difficulty, [The Plain Bagel](https://www.youtube.com/@TheP
 Ben Felix's [channel](https://www.youtube.com/@BenFelixCSI/videos) has an unusual level of technical explanation, while still being very accessible. He provides extensive scholarly citations to support his views on investing. He also co-hosts a podcast called [The Rational Reminder](https://www.youtube.com/@rationalreminder/videos), where he interviews experts or explores the evidence on a variety of investing topics. [Click here](https://www.youtube.com/watch?v=we_7F5N3ByQ) to see a video in which he outlines the basics of investing according to his views. The Rational Reminder podcast has a [community forum](https://community.rationalreminder.ca/) with great discussion from well-informed listeners. __The Rational Reminder is my strongest recommendation for information on portfolio management.__
 
 These three YouTubers are Canadian financial professionals, but nearly all of their advice applies universally. Many of their videos are linked throughout the guide. [Patrick Boyle](https://www.youtube.com/@PBoyle/videos), a London-based professor and former hedge fund manager, has a great YouTube channel as well. His style of investing is far different than the one advocated in this guide, but his videos provide very informed (and funny!) commentary on current events and important issues in financial markets. In addition to his regular stream of videos, I recommend [this playlist](https://www.youtube.com/playlist?list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw) of his lectures on portfolio management.
+
+&nbsp;
+
+#### Books
+
+I highly recommend _[Trillions: How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever](https://libgen.rs/search.php?req=Wigglesworth+Trillions&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_. This well-researched book details how the intellectual foundations of passive investing were built; the dramatic stories of how Vanguard, BlackRock, and Dimensional Fund Advisors developed into dominant asset managers; and how ETFs gradually transformed the investing landscape. In [part of the only footnote](https://github.com/investindex/Vocab#on-misconceptions-about-john-bogle) in this section, I drew on this book to describe many of the common misconceptions about the origin of index funds and the character of [John Bogle](https://en.wikipedia.org/wiki/John_C._Bogle), founder of Vanguard.
+
+For a book with concise coverage of the essentials of personal finance, read _[The Index Card](https://libgen.rs/search.php?req=Olen+The+Index+Card&open=0&res=25&view=simple&phrase=1&column=def)_ by Helaine Olen and Harold Pollack.
+
+Brian Feroldi's book _[Why Does the Stock Market Go Up?](https://libgen.rs/search.php?req=Brian+Feroldi+Why+Does+The+Stock+Market+Go+Up%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ is a quick read that answers many questions about how the stock market works.
+
+Moshe Milevsky's book _[Are You a Stock or a Bond?](https://libgen.rs/search.php?req=Milevsky+Are+you+a+stock+or+a+bond%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ discusses the interaction of your human capital with investment risk, as [explained in the section on risk](https://github.com/investindex/Risk#are-you-a-stock-or-a-bond). Milevsky's interview on The Rational Reminder is [here](https://www.youtube.com/watch?v=529qY1f64gc).
+
+Morgan Housel's book _[The Psychology of Money](https://libgen.rs/search.php?req=Housel+The+Psychology+of+Money&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ jumps through a variety of foundational lessons about investing and sound financial behavior. His interview on The Rational Reminder is [here](https://www.youtube.com/watch?v=NSaRb-iFwPA).
+
+The books Larry Swedroe co-authored on [retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Retirement&open=0&res=25&view=simple&phrase=1&column=def) and [factor investing](https://libgen.rs/search.php?req=Berkin+Swedroe+Your+Complete+Guide+to+Factor-Based+Investing&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) are useful, detailed guides.
+
+A common recommendation for beginner investors is _The Simple Path to Wealth_ by J.L. Collins (and his series of blog posts [here](https://jlcollinsnh.com/stock-series/)). I don't recommend this reading. The book has multiple factual errors detailed in this footnote.<sup id="fn1">[[1]](#f1)</sup> Aside from these flaws, it offers boilerplate buy-and-hold advice that can be found in many other places. The book also has, in my view, an irrational antagonism toward debt, highlighting lack of debt as a pillar of building wealth. (I suggest a more [balanced approach](https://github.com/investindex/Guidelines#debt-and-investment) to paying off debt.)
+
+[_The Millionaire Next Door_](https://libgen.rs/search.php?req=millionaire+next+door&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) discusses the results of extensive study of people with high net worth. It emphasizes the traits that can eventually make people with unexceptional incomes into millionaires. Advice from the book includes: live frugally and spend much less than you make; invest your savings; explicitly budget your spending; value financial independence; understand how to minimize taxes; avoid luxury expenses that conspicuously signal wealth rather than build it; marry someone at least as frugal as you are; and encourage your children to become self-sufficient. High income helps too, of course, but is not strictly necessary to reach a seven-figure net worth by middle or old age. Aside from some fun anecdotes, that is the essence of the entire book.
 
 &nbsp;
 
